@@ -1,1464 +1,1464 @@
 #C:\Users\Robin McCann\AppData\Roaming\Python\Python37\site-packages\ipykernel_launcher.py -f C:\Users\Robin McCann\AppData\Roaming\jupyter\runtime\kernel-9fc693fa-ff9a-4d45-8055-653a270dd68f.json
-# GMT Fri Feb 14 10:36:21 2020
+# GMT Fri Feb 14 11:16:17 2020
 # 
-Glenn Gers Gregory Hoblit Daniel Pyne
-Frank Spotnitz Chris Carter Rob Bowman
-Jeff Zuber Tom Zuber
-Tom Hooper Peter Morgan David Seidler David Peace
-Ron Friedman John Freeman Shigeyasu Yamauchi Nelson Shin Baik Seung Kyun Kôzô Morishita Margaret Nichols Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-Dan McDermott Travis Wright D.J. Caruso John Glenn Hillary Seitz
-Brian Mulroney Mike de Seve Mike Judge Joe Stillman Yvette Kaplan
-Christopher Wilkinson Gregory Allen Howard Stephen J. Rivele Eric Roth Michael Mann
-Edward Neumeier Paul Verhoeven Robert A. Heinlein
-Tim Day Carl V. Dupré Clive Barker Neal Marshall Stevens Rick Bota
-Harold Manning Armando Iannucci Jesse Armstrong Tony Roche Simon Blackwell Ian Martin
-David Morrell George P. Cosmatos Kevin Jarre James Cameron Sylvester Stallone
-Paul Attanasio Richard Woodley Kurt Wimmer Joseph D. Pistone Michael Crichton Barry Levinson Mike Newell Stephen Hauser
-Sylvie Bouchard Babaloo Mandel Lowell Ganz Émile Gaudreault Ron Howard
-Tom Zuber
-Arthur Penn David Newman Robert Benton Robert Towne
-Jerzy Kosinski Hal Ashby Robert C. Jones
-Rob Cohen Rich Wilkes
-Guillermo Arriaga Alejandro G. Iñárritu
-Hilary Henkin David Mamet Larry Beinhart Barry Levinson
-Jakub Korolczuk Agnieszka Wojtowicz-Vosloo Paul Vosloo
-John Ford Frank S. Nugent Alan Le May
-Douglas W. Churchill Frank Capra Robert Riskin Harry Chandlee Jo Swerling
-Marv Wolfman Guillermo del Toro David S. Goyer Gene Colan
-Albert Magnoli William Blinn
-Nathan Parker Duncan Jones
-Czenzi Ormonde Alfred Hitchcock Patricia Highsmith Raymond Chandler Whitfield Cook Ben Hecht
-Alejandro Amenábar Mateo Gil Cameron Crowe
-John Madden Tom Stoppard Jeremy Brock Marc Norman
-Jack Epps Jr. Tony Scott Ehud Yonay Jim Cash Warren Skaaren
-Paul Mayersberg Mike Hodges
-John Maybury Massy Tadjedin Tom Bleecker Marc Rocco
-Ken Selden Geoffrey Wright
-Mathieu Kassovitz Sebastian Gutierrez
-Mark Medoff Roland Joffé Dominique Lapierre
-Ronald Harwood Wladyslaw Szpilman Roman Polanski István Szabó
-Steven McKay Bruce Malmuth
-Hiroshi Takahashi Kôji Suzuki Hideo Nakata
-Alvin Sargent Robert Redford Laura Ziskin Frank Oz Tom Schulman Judith Guest Nancy Dowd
-Dustin Lance Black Gus Van Sant
-Susan Gauthier Bob Tzudiker Noni White Gary Goldman Eric Tuchman Bruce Graham Don Bluth
-Dean Devlin Terry Rossio Ted Elliott Roland Emmerich
-Mark Millar Timur Bekmambetov Chris Morgan Derek Haas J.G. Jones Michael Brandt
-Andy Tennant Sarah Thorp
-Terrence Malick
-Amy Holden Jones John Raffo Rick Jaffa Lincoln Child Amanda Silver Douglas Preston Peter Hyams
-Carl Reiner David O'Malley
-Bryan Burrough Ann Biderman Michael Mann Ronan Bennett
-Cormac McCarthy Joe Penhall John Hillcoat
-Chris Carter Rob Bowman
-Mike de Seve Mike Judge Joe Stillman Yvette Kaplan
-Walter Ferris Martin Brest Alberto Casella Bo Goldman Maxwell Anderson Jeff Reno Ron Osborn Kevin Wade Gladys Lehman
-Jack Kirby Mark Frost Stan Lee Michael France Tim Story
-Danny Rubin Harold Ramis
-Susannah Grant Steven Soderbergh
-Susan Montford Edward Bryant
-Peter Benchley Howard Sackler Steven Spielberg Carl Gottlieb Jeannot Szwarc
-Bob Tzudiker Noni White Gary Goldman Eric Tuchman Bruce Graham Kenny Ortega Don Bluth
-Thomas Keneally Steven Spielberg Steven Zaillian
-Winston Miller Sidney Lanfield Luke Short Frank Fenton
-Randy Kornfield Jesse Alexander Ellory Elkayem
-Coline Serreau Leonard Nimoy Jim Cruickshank James Orr
-Valerie Plame Wilson Jez Butterworth Doug Liman John-Henry Butterworth Joseph Wilson
-Isaac Asimov Jeff Vintar Akiva Goldsman Alex Proyas
-Waldo Salt James Leo Herlihy John Schlesinger
-Thomas Schlamme Robbie Fox
-Ron Underwood Brent Maddock S.S. Wilson
-Nikolaj Frobenius Erik Skjoldbjærg Hillary Seitz Christopher Nolan
-Mel Smith Richard Curtis Robin Driscoll Rowan Atkinson
-Stanley Weiser Oliver Stone
-Pedro Almodóvar
-Tony Scott Greg Hicks Roger Avary Quentin Tarantino Ehud Yonay Brian Helgeland David Marconi Jim Cash A.J. Quinnell Warren Skaaren Shane Black
-Bryce Courtenay John G. Avildsen Robert Mark Kamen
-Sidney Lanfield Luke Short Frank Fenton
-Mark Osborne Glenn Berger Ethan Reiff John Stevenson Chris Poche Jonathan Aibel Cyrus Voris
-Andrew W. Marlowe Wolfgang Petersen Gary Scott Thompson Paul Verhoeven
-Adam Sandler Steven Brill Tim Herlihy
-Don DeLillo Michael Hoffman
-Luke Short Frank Fenton
-Peter Morgan Philippa Gregory Stephen Frears David Peace Justin Chadwick
-Annie Proulx Robert Nelson Jacobs Lasse Hallström
-Bari Wood Jack Geasland Norman Snider David Cronenberg
-Stephen Daldry Bernhard Schlink David Hare
-Martin Brest Alberto Casella Bo Goldman Maxwell Anderson Jeff Reno Ron Osborn Kevin Wade Gladys Lehman
-Bruce Porter David McKenna Ted Demme Nick Cassavetes
-Andrzej Bartkowiak John O'Brien Channing Gibson
-John Fawcett Karen Walton
-Karen Leigh Hopkins Jessie Nelson Ronald Bass Gigi Levangie Steven Rogers Chris Columbus
-Dean Craig Frank Oz
-Gustin Nash C.D. Payne Miguel Arteta
-John Herzfeld
-Frank S. Nugent Alan Le May
-Bob Kane Daniel Waters Tim Burton Sam Hamm Warren Skaaren
-David Newman Robert Benton Robert Towne
-Jim Thomas Ronald Shusett Brent Maddock Barry Sonnenfeld John McTiernan Lowell Cannon Jeffrey Price Graham Yost Paul W.S. Anderson Dan O'Bannon Peter S. Seaman Brian De Palma John Thomas S.S. Wilson
-Pamela Gray Wes Craven
-Roald Dahl Noah Baumbach Wes Anderson
-Arthur C. Clarke Stanley Kubrick
-Garry Marshall Sara Parriott J.F. Lawton Josann McGibbon
-David Lloyd James McTeigue Lilly Wachowski Lana Wachowski
-Noni White Gary Goldman Eric Tuchman Bruce Graham Kenny Ortega Don Bluth
-Anthony Hickox Clive Barker Tony Randel Peter Atkins
-Steve Koren Tom Shadyac Mark O'Keefe Steve Oedekerk
-Carl V. Dupré Clive Barker Rick Bota Adam Rifkin
-Steve Pink John Morris Josh Heald Sean Anders Tom Jankiewicz Nick Hornby Stephen Frears John Cusack D.V. DeVincentis Scott Rosenberg George Armitage
-Du Lu Wang Kuo Jung Tsai James Schamus Hui-Ling Wang Ang Lee
-John Grogan David Frankel Don Roos Scott Frank
-Mark Jacobson Ridley Scott Steven Zaillian Henry Bean
-Guillermo del Toro David S. Goyer Donald A. Wollheim Matthew Robbins Gene Colan Mike Mignola Peter Briggs
-John Freeman Shigeyasu Yamauchi Nelson Shin Baik Seung Kyun Kôzô Morishita Margaret Nichols Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-Mark Verheiden Mike Werb Chuck Russell Michael Fallon
-Nora Ephron Miklós László David S. Ward Delia Ephron Jeff Arch
-Irwin Winkler Steve Levitt Oliver Sacks Mark Andrus
-Anthony Minghella Michael Ondaatje Charles Frazier Patricia Highsmith
-Joel Coen Matthew Stone Sam Raimi Ethan Coen Robert Ramsey Homer John Romano William Rose
-Robert Kurtzman Robert Rodriguez Quentin Tarantino
-Greg Hicks Shane Black
-Ehren Kruger Kevin Williamson Wes Craven
-Richard Outten Mary Lambert
-Kevin Yagher Washington Irving Tim Burton Andrew Kevin Walker
-Danny Boyle Aron Ralston Irvine Welsh Vikas Swarup Simon Beaufoy John Hodge Alex Garland Loveleen Tandan
-Pj Torokvei Martha Coolidge Pat Proft Neal Israel
-Aron Ralston Simon Beaufoy
-Kenneth Branagh Frank Darabont Mary Shelley Steph Lady
-David Seidler
-Kevin Smith
-William Shakespeare Karen McCullah Baz Luhrmann Kirsten Smith Craig Pearce Gil Junger
-Doug Jung James Foley
-Joe Connelly Paul Schrader Martin Scorsese
-Jerry Lewis Joan O'Brien Charles Denton
-Brett Ratner David Diamond Jeff Nathanson David Weissman Jim Kouf Ross LaManna
-Peter Weir Andrew Niccol Tom Schulman Pamela Wallace Earl W. Wallace William Kelley
-Noah Baumbach Wes Anderson
-Jim Abrahams John C. Champion Hall Bartlett David Zucker Jerry Zucker Arthur Hailey
-Alexandre Aja Sung-ho Kim Grégory Levasseur
-Martha Coolidge Pat Proft Calder Willingham Neal Israel
-Howard Zieff Laurice Elehwany
-Leonard Nimoy Jim Cruickshank James Orr
-James Leo Herlihy John Schlesinger
-Roberto Orci Caspian Tredwell-Owen Michael Bay Alex Kurtzman
-Eric Bress J. Mackye Gruber Jeffrey Reddick David R. Ellis
-Peter Griffiths Ronald Roose David Griffiths Andrew Davis
-Mike Hodges Ted Lewis
-Alberto Casella Bo Goldman Maxwell Anderson Jeff Reno Ron Osborn Kevin Wade Gladys Lehman
-Clint Eastwood John Lee Hancock J. Michael Straczynski Dave Johannson Nick Schenk David Baldacci William Goldman
-Tony Grisoni Alex Cox Tod Davies Hunter S. Thompson Terry Gilliam
-Jeffrey Nachmanoff Roland Emmerich
-Adam Brooks Lawrence Kasdan Richard LaGravenese Toni Morrison Jonathan Demme Akosua Busia
-John Boorman Thomas Malory Rospo Pallenberg
-Orson Welles Roger Q. Denny Herman J. Mankiewicz John Houseman Mollie Kent
-James Wong Jeffrey Reddick Glen Morgan
-Lois Duncan Danny Cannon Trey Callaway
-Rex Pickett Barbara Schock Alexander Payne Jim Taylor
-John O'Brien Mike Figgis Channing Gibson
-Daniel Clowes Terry Zwigoff
-Malcolm Venville Louis Mellis David Scinto
-Robert Nelson Jacobs Lasse Hallström
-Oliver Stone Quentin Tarantino Jim Marrs Zachary Sklar David Veloz Richard Rutowski Jim Garrison Randall Jahnson Howard Hawks John Ridley Armitage Trail Brian De Palma Ben Hecht
-Richard Woodley Joseph D. Pistone Mike Newell
-Menno Meyjes Steven Spielberg George Lucas Philip Kaufman Lawrence Wright Edward Zwick Jeffrey Boam
-Thomas Malory Rospo Pallenberg
-Stephen McFeely C.S. Lewis Andrew Adamson Christopher Markus Ann Peacock
-David Hayter Alex Tse Bryan Singer Dave Gibbons Tom DeSanto Alan Moore Zack Snyder
-Louis Garfinkle Michael Cimino Deric Washburn Quinn K. Redeker
-Norman Jewison Richard Jessup John Patrick Shanley Terry Southern Ring Lardner Jr. John Pielmeier
-Patrick Sheane Duncan John Badham
-Russell Banks Paul Schrader Atom Egoyan
-Michael McCullers Mike Myers Jay Roach
-Andrew Mogel Danny Wallace Nicholas Stoller Peyton Reed Jarrad Paul
-Gary Goldman Ronald Shusett Jonathan Hensleigh Eric Tuchman Jon Povill Philip K. Dick Paul Bernbaum Bruce Graham Paul Verhoeven Don Bluth Dan O'Bannon Lee Tamahori
-Mario Puzo Francis Ford Coppola
-James O'Barr John Shirley David S. Goyer David J. Schow Chip Johannessen Tim Pope Bharat Nalluri Alex Proyas
-Spike Lee Malcolm X Alex Haley Arnold Perl
-Danny DeVito Adam Resnick
-Frank Abagnale Jr. Steven Spielberg Jeff Nathanson Stan Redding
-Charles Webb Mike Nichols Calder Willingham Buck Henry
-John Frankenheimer J.D. Zeik George Axelrod David Mamet Richard Condon
-Barry Reed Sidney Lumet David Mamet Jay Presson Allen
-Mike Reiss Ken Finkleman Al Jean
-Richard Ben Cramer John Logan Benjamin Ross Thomas Lennon
-J.R.R. Tolkien Fran Walsh Philippa Boyens Peter Jackson
-Louis Mellis David Scinto
-Steven Soderbergh Jack Golden Russell Ted Griffin George Nolfi Charles Lederer Lem Dobbs Simon Moore Harry Brown Elmore Leonard Stephen Gaghan George Clayton Johnson Scott Frank Stanislaw Lem
-David Duncan John Logan Simon Wells H.G. Wells
-Ivan Reitman Harold Ramis Rick Moranis Dan Aykroyd
-Peter Laird Kevin Eastman Kevin Munroe
-Jason Friedberg Aaron Seltzer
-Peter Buchman Alexander Payne Michael Crichton Jim Taylor Joe Johnston
-Allen Coulter Will Fetters
-Jez Butterworth Doug Liman Tom Butterworth John-Henry Butterworth Joseph Wilson
-Rob Zombie
-Alan Parker Charles Randolph
-Brian Koppelman Kevin Bray David Klass Channing Gibson David Levien Mort Briskin
-Dan Kay Tony Giglio
-P.F. Kluge Sidney Lumet Thomas Moore Leslie Waller Frank Pierson
-Willard Huyck Steven Spielberg George Lucas Gloria Katz
-I.A.L. Diamond Billy Wilder Arthur Conan Doyle
-Peter Steinfeld Harold Ramis Peter Tolan Kenneth Lonergan
-Richard Curtis Robin Driscoll Roger Michell Rowan Atkinson
-Timur Bekmambetov Chris Morgan Derek Haas J.G. Jones Michael Brandt
-J.D. Zeik David Mamet
-Danny Cannon Trey Callaway
-M. Night Shyamalan
-Jessie Nelson Kristine Johnson Ronald Bass Gigi Levangie Steven Rogers Chris Columbus
-Stephen Herek David Loughery Alexandre Dumas
-Ken Hixon Sue Miller Pat O'Connor
-Sarah Thorp
-Emile Ardolino Paul Rudnick
-Ronald Shusett Larry Ferguson Jon Povill Philip K. Dick Steven Seagal Joss Whedon Walter Hill Jean-Pierre Jeunet Andrew Davis James Cameron Paul W.S. Anderson Paul Verhoeven Steven Pressfield Vincent Ward Dan O'Bannon David Giler John Thomas David Fincher
-McG Ben Roberts John August John Brancato Michael Ferris Ivan Goff Cormac Wibberley Marianne Wibberley
-Tom Stoppard Marc Norman Charles McKeown Charles Alverson Terry Gilliam
-Glenn Berger Ethan Reiff John Stevenson Chris Poche Jonathan Aibel Cyrus Voris
-Duncan Jones
-John Morris Josh Heald Sean Anders Jim Field Smith
-Miklós László Delia Ephron
-Christopher McQuarrie Nathan Alexander Bryan Singer Florian Henckel von Donnersmarck Jérôme Salle Julian Fellowes
-Clive Barker Tony Randel Peter Atkins Neal Marshall Stevens Rick Bota
-Jonathan Hensleigh Philip K. Dick Leslie Charteris Phillip Noyce Paul Bernbaum Wesley Strick Lee Tamahori
-Michael Tolkin Henry Bean Bill Duke
-Tony Giglio
-Pat Proft Neal Israel Bob Israel
-Roger Q. Denny Herman J. Mankiewicz John Houseman Mollie Kent
-Richard Jessup Terry Southern Ring Lardner Jr.
-Matthew Stone Ethan Coen Ted Demme Robert Ramsey John Romano
-Craig Bolotin Ridley Scott Warren Lewis
-Pen Densham Kevin Reynolds John Watson
-Jon Amiel Ronald Bass Michael Hertzberg William Broyles Jr. David Madsen Ann Biderman
-Duane Adler Thomas Carter Cheryl Edwards
-Travis Wright D.J. Caruso John Glenn Hillary Seitz
-Paul Guay Tom Shadyac Stephen Mazur
-Jay Wolpert Stuart Beattie Terry Rossio Gore Verbinski Ted Elliott
-Harald Kloser Roland Emmerich
-Lawrence B. Marcus John Haase Barbara Turner Richard Lester
-Alexandre Rockwell Robert Rodriguez Quentin Tarantino Allison Anders Chuck Jones
-Anthony Peckham Lionel Wigram Arthur Conan Doyle Simon Kinberg Michael Robert Johnson Guy Ritchie
-Jonathan Schroder Randall Rubin
-Josh Friedman Steven Spielberg David Koepp James Ellroy H.G. Wells Brian De Palma
-Eric Tuchman Bruce Graham Don Bluth
-Will Fetters
-Diablo Cody Karyn Kusama Jason Reitman
-Shigeyasu Yamauchi Nelson Shin Baik Seung Kyun Kôzô Morishita Margaret Nichols Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-David Frankel Don Roos Scott Frank
-Robert Rodriguez Quentin Tarantino Allison Anders Chuck Jones
-Jack Bernstein Tom Shadyac Jim Carrey
-Scot Armstrong Kent Alterman
-Christine Jeffs Megan Holley
-Ben Roberts John August Ivan Goff Cormac Wibberley Marianne Wibberley
-Carl Ellsworth Christopher Landon D.J. Caruso
-Paul Schrader Jake LaMotta Martin Scorsese Joseph Carter Mardik Martin Peter Savage
-Kurt Wimmer F. Gary Gray Michael Crichton Barry Levinson Stephen Hauser
-Rob Bowman
-Mark Steven Johnson
-David Self Roger Donaldson Ernest R. May Jan de Bont Shirley Jackson Philip D. Zelikow
-Joshua Goldin Sam Raimi Ivan Raimi Daniel Goldin Chuck Pfarrer
-Kristine Johnson
-Jay Parini Michael Hoffman
-Norman Krasna Melvin Frank Michael Curtiz Norman Panama
-Mark Hanlon Steve Beck John Pogue
-Hampton Fancher Philip K. Dick Ridley Scott David Webb Peoples
-Ronald Bass Scott Hicks Gigi Levangie Michael Hertzberg William Broyles Jr. David Guterson Steven Rogers P.J. Hogan Chris Columbus
-Mark Protosevich Tarsem Singh
-Gerald Di Pego Luis Mandoki
-Karyn Kusama
-Nechama Tec Clayton Frohman Edward Zwick
-Sidney Lumet Thomas Moore David Mamet Leslie Waller Jay Presson Allen Frank Pierson
-Roger Avary Quentin Tarantino
-John Badham
-Josh Heald Sean Anders
-Michael Cimino Deric Washburn Quinn K. Redeker
-Scott Abbott Michael Rymer Michael Petroni Anne Rice
-Kathryn Bigelow Jay Cocks W. Peter Iliff James Cameron Rick King
-Ronald D. Moore Bruce Geller Gene Roddenberry Brannon Braga Rick Berman Jonathan Frakes John Woo David Carson Robert Towne
-Scott Hicks David Guterson
-Tom Shadyac Mark O'Keefe Stephen Mazur Steve Oedekerk Jim Carrey
-Sabi H. Shabtai Christian Duguay Dan Gordon
-Christopher De Vore Ashley Montagu Frederick Treves David Lynch Eric Bergren
-Paul Rudnick
-Todd Phillips Scott Moore Jon Lucas
-Sean Anders Jim Field Smith
-Kaja Blackley Henry Selick Sam Hamm
-Rod Serling Franklin J. Schaffner John T. Kelley Pierre Boulle Michael Wilson
-W.D. Richter Earl Mac Rauch
-Ryan Fleck Anna Boden
-Ken Finkleman Al Jean
-Clark Gregg Robert Zemeckis Sarah Kernochan
-Larry Ferguson Walter Hill Russell Mulcahy Peter Bellwood Vincent Ward Dan O'Bannon David Giler David Fincher Gregory Widen
-William Blinn
-Jonathan Reynolds Marty Kaplan Jonathan Lynn
-John Sayles
-Greg Mottola Seth Rogen Evan Goldberg
-Bill Lancaster John Carpenter John W. Campbell Jr.
-Bill Condon Christopher Bram
-Merian C. Cooper Fran Walsh Edgar Wallace Philippa Boyens Peter Jackson
-Melchior Lengyel Walter Reisch Ernst Lubitsch Charles Brackett Billy Wilder
-Todd Farmer Victor Miller James Isaac
-Sapphire Geoffrey Fletcher Lee Daniels
-John Raffo Rick Jaffa Lincoln Child Amanda Silver Douglas Preston Peter Hyams
-Andrew Bergman Gregory McDonald Michael Ritchie Phil Alden Robinson
-John C. Richards James Flamberg Neil LaBute
-Barry Gifford David Lynch
-Rian Johnson
-John Shirley David J. Schow Alex Proyas
-Robert Penn Warren Robert Rossen
-Frank Fenton
-Terry George Keir Pearson
-Gigi Levangie Steven Rogers Chris Columbus
-Sam Montgomery Jonathan Mostow
-Peter Howitt Howard Franklin
-John Sturges Millard Kaufman Howard Breslin Don McGuire
-Alex Cox Tod Davies Hunter S. Thompson Terry Gilliam
-Roger Donaldson Ernest R. May Philip D. Zelikow
-Al Jean
-Ken Kwapis Marc Silverstein Abby Kohn Liz Tuccillo Greg Behrendt
-Thomas Moore Leslie Waller Frank Pierson
-Ernest K. Gann Charles Jarrott Sandy Glass George Arthur Bloom Steven W. Carabatsos
-Takashi Shimizu Stephen Susco
-Malcolm X Alex Haley Arnold Perl
-Marc Silverstein Abby Kohn Liz Tuccillo Greg Behrendt
-Jack Golden Russell Ted Griffin George Nolfi Charles Lederer Harry Brown George Clayton Johnson
-Ashley Montagu Frederick Treves David Lynch Eric Bergren
-Gregory Allen Howard Stephen J. Rivele Eric Roth Michael Mann
-Kinka Usher Neil Cuthbert Bob Burden
-Roger Spottiswoode Larry Gross Walter Hill Bruce Feirstein Ian Fleming Steven E. de Souza
-Jon Povill Philip K. Dick Paul Verhoeven Dan O'Bannon
-Francis Ford Coppola John Milius Joseph Conrad Michael Herr
-Carole Eastman Bob Rafelson
-Dave Eggers Spike Jonze Maurice Sendak
-Sophie Schmit Pierre Jolivet Marc Perrier Luc Besson Alain Le Henry
-Washington Irving Tim Burton Andrew Kevin Walker
-David S. Goyer Stephen Norrington Tim Pope Gene Colan
-Jim Cruickshank James Orr
-Michael Anderson William F. Nolan David Zelag Goodman George Clayton Johnson
-Joan Chen Allison Burnett
-Gregory McDonald Michael Ritchie Phil Alden Robinson
-Ted Griffin Charles Lederer Harry Brown George Clayton Johnson
-David Diamond David Weissman
-James Orr
-Mandy Nelson Francine McDougall
-Jake LaMotta Martin Scorsese Joseph Carter Mardik Martin Peter Savage
-Philippa Gregory Justin Chadwick
-Alan Dean Foster Robert Wise Gene Roddenberry Harold Livingston
-Babaloo Mandel Lowell Ganz Émile Gaudreault Ron Howard
-James M. Cain Raymond Chandler Billy Wilder
-Nick Guthe
-Stephen J. Rivele Eric Roth Michael Mann
-Trey Callaway
-Hugh Wilson Bill Kelly
-Rachel Talalay Wes Craven Michael De Luca
-Peter Shaffer Zdenek Mahler Milos Forman
-Philip K. Dick Jon Cohen Steven Spielberg Ridley Scott Paul Bernbaum David Webb Peoples Scott Frank Paul Verhoeven Dan O'Bannon Lee Tamahori
-Quentin Tarantino Allison Anders Uma Thurman David Veloz Richard Rutowski Chuck Jones Elmore Leonard
-John Briley Richard Attenborough
-Robert Zemeckis Gary K. Wolf William Broyles Jr. Sarah Kernochan Eric Roth Winston Groom Jeffrey Price Richard Williams Peter S. Seaman
-Steven Seagal Andrew Davis Steven Pressfield
-Jeb Stuart George P. Cosmatos John McTiernan Roderick Thorp Roy Huggins Steven E. de Souza David Webb Peoples David Twohy Andrew Davis
-Caroline Thompson Charles Addams Barry Sonnenfeld Larry Wilson
-Allison Anders Chuck Jones
-Brett Leonard Eric Bernt
-Lucas Lowe Keith W. Strandberg
-Matthew Michael Carnahan James Ellroy Joe Carnahan
-Sara Parriott Josann McGibbon
-Steven Brill Tim Herlihy
-Jenny Lumet Jonathan Demme
-Erica Beeney Kyle Rankin Efram Potelle
-Guillaume Lemans Paul Haggis Fred Cavayé
-Troy Duffy Taylor Duffy
-Nancy Meyers
-Gary K. Wolf Jeffrey Price Richard Williams Peter S. Seaman
-C.S. Lewis Andrew Adamson Christopher Markus Ann Peacock
-Hal Ashby Robert C. Jones Warren Beatty Robert Towne
-Chris Morgan Larry Cohen Derek Haas J.G. Jones Michael Brandt David R. Ellis
-James Flamberg Neil LaBute
-Joe Penhall John Hillcoat
-Toby Emmerich Gregory Hoblit
-John Patrick Shanley
-Terry Southern Ring Lardner Jr.
-Rafael Moreu Iain Softley
-Steve Miner David E. Kelley
-David Seltzer Ridley Scott Danilo Bach Howard Franklin
-Megan Holley
-Tom Jankiewicz John Cusack D.V. DeVincentis George Armitage
-Bruce Malmuth
-Jim Marrs Zachary Sklar Jim Garrison
-D.M. Marshman Jr. Charles Brackett Billy Wilder
-Ernest Tidyman Robin Moore William Friedkin
-Jody Hill
-Peter Straughan Grant Heslov Jon Ronson
-Emma Thompson Jane Austen Ang Lee
-Joan O'Brien Charles Denton
-Alex Tse Dave Gibbons Alan Moore Zack Snyder
-Roland Joffé Dominique Lapierre
-Jay Cocks Martin Scorsese Steven Zaillian James Cameron Kenneth Lonergan
-Bruce Geller David Koepp Brannon Braga Steven Zaillian John Woo Robert Towne Brian De Palma
-Deric Washburn Quinn K. Redeker
-Giacomo Scarpelli Massimo Troisi Michael Radford Furio Scarpelli Anna Pavignano Antonio Skármeta
-Glenn Ficarra Terry Zwigoff Steve McVicker John Requa
-Jeff Vintar Akiva Goldsman Alex Proyas
-Dean Riesner Raynold Gideon Bruce A. Evans John Carpenter
-George A. Romero
-Andrew Niccol
-Mark O'Keefe Steve Oedekerk
-Werner Herzog William M. Finkelstein
-Didier Kaminka Simon Michaël James Cameron Claude Zidi
-Mike Figgis
-Felix Sutton Todd Robinson Ridley Scott Charles Gieg Jr.
-Jon Cohen Steven Spielberg Scott Frank
-Danny Wallace Nicholas Stoller Peyton Reed Jarrad Paul
-Francis Lawrence Jamie Delano Frank A. Cappello Garth Ennis Kevin Brodbin
-Stephen Levy Tim Metcalfe Dominic Sena
-Henry Selick Sam Hamm Neil Gaiman
-DJ Pooh Ice Cube Steve Carr
-Mateo Gil Cameron Crowe
-Charles Addams Barry Sonnenfeld Larry Wilson
-Christopher Landon D.J. Caruso
-Adrian Lyne Bruce Joel Rubin
-Bo Goldman Ken Kesey Lawrence Hauben Maxwell Anderson Dale Wasserman Jeff Reno Ron Osborn Kevin Wade Gladys Lehman Milos Forman
-Robert Redford Nick Evans Eric Roth Richard LaGravenese Judith Guest Nancy Dowd
-Chris Weitz Melissa Rosenberg Eric Darnell Adam Herz Tim Johnson Paul Weitz Stephenie Meyer Todd Alcott
-Michael Hertzberg William Broyles Jr.
-Rick Jaffa Lincoln Child Amanda Silver Douglas Preston Peter Hyams
-Irvine Welsh John Hodge
-Samuel A. Peeples Gene Roddenberry Harve Bennett Nicholas Meyer Jack B. Sowards
-Edward Bryant
-Sam Lake John Moore Beau Thorne
-Frederick Treves David Lynch Eric Bergren
-George Nolfi Paul Greengrass Robert Ludlum Tony Gilroy George Clayton Johnson Scott Z. Burns
-W. Blake Herron Doug Liman Robert Ludlum Tony Gilroy
-Owen Wilson Wes Anderson
-Marty Kaplan Jonathan Lynn
-Ken Kesey Lawrence Hauben Dale Wasserman Milos Forman
-Anthony Yerkovich Michael Mann
-Shari Springer Berman Harvey Pekar Joyce Brabner Robert Pulcini
-John August Doug Liman Tim Burton Ivan Goff Daniel Wallace Cormac Wibberley Marianne Wibberley
-Harold Ramis Rick Moranis Peter Tolan Dan Aykroyd Kenneth Lonergan
-David Lynch Frank Herbert Eric Bergren
-Christopher Crowe John L. Balderston Daniel Moore Paul Perez Philip Dunne Michael Mann James Fenimore Cooper
-Donald A. Wollheim Matthew Robbins
-Robert Gunter David Mickey Evans
-Martin Scorsese Nicholas Pileggi Alan Mak Joseph Carter Steven Zaillian Melissa Mathison Felix Chong Paul D. Zimmerman Mardik Martin William Monahan Peter Savage Kenneth Lonergan
-Joel Soisson Douglas Aarniokoski William N. Panzer Eric Bernt Gillian Horvath Gregory Widen
-Rudolph Grey Tim Burton Scott Alexander Larry Karaszewski
-Ernest R. May Philip D. Zelikow
-Terry Zwigoff John Requa
-William Broyles Jr.
-W. Peter Iliff Rick King
-Robert Wise Gene Roddenberry Edmund H. North Harold Livingston Harry Bates
-Charles MacArthur Charles Lederer Morrie Ryskind Howard Hawks Ben Hecht
-Kevin Williamson Wes Craven
-Nathan Alexander Bryan Singer
-Larry Gross Walter Hill Steven E. de Souza
-Jim Thompson Donald E. Westlake Sam Peckinpah Walter Hill Stephen Frears
-Lawrence Hauben Dale Wasserman Milos Forman
-Wladyslaw Szpilman Roman Polanski
-Lionel Wigram Arthur Conan Doyle Simon Kinberg Michael Robert Johnson Guy Ritchie
-Brian Taylor Mark Neveldine
-Melissa Rosenberg Stephenie Meyer Catherine Hardwicke
-Andrew Adamson Christopher Markus Ann Peacock
-Raynold Gideon Bruce A. Evans John Carpenter
-Barbara Schock
-David Gordon Green Seth Rogen Judd Apatow Evan Goldberg
-Charles Lederer Harry Brown Morrie Ryskind George Clayton Johnson Howard Hawks Ben Hecht
-Mick Jackson Lawrence Kasdan
-Massy Tadjedin Tom Bleecker Marc Rocco
-Nicholas Pileggi
-Ronald Roose David Griffiths Andrew Davis
-Choderlos de Laclos Roger Kumble
-Scott B. Smith Carter Smith
-Paul Lovett Stuart Beattie Michael B. Gordon Stephen Sommers David Elliot
-James Vanderbilt John McTiernan Andy Diggle Sylvain White Jock Peter Berg
-Donald E. Westlake Stephen Frears
-Frank Capra James Hilton Sidney Buchman Clarence Budington Kelland Robert Riskin Michael Wilson Harry Chandlee Jo Swerling Frances Goodrich Albert Hackett Philip Van Doren Stern
-Jesse Alexander Ellory Elkayem
-Mark Swift Wes Craven Ronny Yu Victor Miller Damian Shannon
-Jack Geasland Norman Snider David Cronenberg
-Nicholas Stoller Peyton Reed Jarrad Paul
-Charles Jarrott Sandy Glass George Arthur Bloom Steven W. Carabatsos
-Mary Orr Joseph L. Mankiewicz
-Ellory Elkayem
-David J. Schow Alex Proyas
-Steve Levitt Oliver Sacks
-Seth Rogen Judd Apatow Evan Goldberg
-Rockne S. O'Bannon Graham Baker
-Fran Walsh Edgar Wallace Philippa Boyens Peter Jackson
-Jamie Delano Frank A. Cappello Garth Ennis Kevin Brodbin
-Nicole Kassell Steven Fechter
-Allison Burnett
-David McKenna Tony Kaye Ted Demme Nick Cassavetes
-Todd Robinson Ridley Scott Charles Gieg Jr.
-Steve Antin
-Ehud Yonay Jim Cash Warren Skaaren
-Leslie Charteris Phillip Noyce Wesley Strick
-Brendan Hood Robert Harmon
-Bob Peterson Tom McCarthy Pete Docter
-Gene Roddenberry Brannon Braga Rick Berman Harve Bennett Jonathan Frakes Michael Piller David Carson Nicholas Meyer Harold Livingston Jack B. Sowards
-Howard Sackler Carl Gottlieb Jeannot Szwarc
-Pierre Bismuth Michel Gondry Charlie Kaufman
-Andrew Neiderman Taylor Hackford Tony Gilroy Jonathan Lemkin
-Steven Spielberg David Koepp George Lucas Philip Kaufman Jeff Nathanson Lawrence Kasdan Carl Gottlieb Steven Zaillian Robert Rodat Scott Frank Michael Crichton H.G. Wells Stan Redding Jeffrey Boam Gloria Katz
-Alan Mak Felix Chong William Monahan
-Delbert Mann Paddy Chayefsky
-Vikas Swarup Simon Beaufoy Loveleen Tandan
-Mark Frost Stan Lee Michael France Tim Story
-Keith W. Strandberg
-John Lee Hancock
-Bruce A. Evans John Carpenter
-John Mason Dennis Shryack Mike Gray Andrew Davis Michael Butler
-Clayton Frohman Edward Zwick
-David Guterson
-Michel Gondry Charlie Kaufman
-Angus MacPhail John Michael Hayes D.B. Wyndham-Lewis Alfred Hitchcock Charles Bennett
-D.J. Caruso Jon Bokenkamp John Glenn Hillary Seitz Dan Gilroy Michael Pye Tony Gayton
-John Logan Ridley Scott Marshall Herskovitz Simon Wells Benjamin Ross William Nicholson Edward Zwick H.G. Wells Thomas Lennon David Franzoni
-Stuart Beattie Terry Rossio Michael B. Gordon Stephen Sommers Gore Verbinski David Elliot Ted Elliott
-Zachary Sklar Jim Garrison
-John Milius Joseph Conrad Michael Herr
-Kevin Bray David Klass Channing Gibson David Levien Mort Briskin
-Antony Hoffman Jonathan Lemkin Chuck Pfarrer
-Eric Watson Darren Aronofsky Sean Gullette
-Matthew Harrison Christopher Grimm
-Simon Beaufoy Loveleen Tandan
-Ben Stiller Etan Cohen Lou Holtz Jr. Justin Theroux
-Steven Rogers James Mangold Chris Columbus
-Jane Campion
-Joe Chappelle Debra Hill John Carpenter Daniel Farrands
-Vanna Paoli Richard Epcar Giuseppe Tornatore
-Nick Evans Eric Roth Richard LaGravenese
-John Michael Hayes D.B. Wyndham-Lewis Alfred Hitchcock Cornell Woolrich Charles Bennett
-Pierre Jolivet Marc Perrier Luc Besson Alain Le Henry
-Maxwell Anderson Jeff Reno Ron Osborn Kevin Wade Gladys Lehman
-Taylor Hackford Tony Gilroy Jonathan Lemkin
-Walter Kirn Jason Reitman Sheldon Turner
-William F. Nolan David Zelag Goodman George Clayton Johnson
-Michael Roesch Uwe Boll Peter Scheerer Elan Mastai
-Daniel Waters Tim Burton Robert Kraft Sam Hamm Steven E. de Souza Bruce Willis Michael Lehmann
-Steve Beck John Pogue
-Peter Chiarelli Anne Fletcher
-Michael Powell Leo Marks
-D.B. Wyndham-Lewis Alfred Hitchcock Charles Bennett
-Ron Nyswaner Jonathan Demme
-Mike Nichols Calder Willingham Buck Henry
-Mike Judge Joe Stillman Yvette Kaplan
-Abby Kohn Liz Tuccillo Greg Behrendt
-Nina Wilcox Putnam Lloyd Fonvielle John L. Balderston Stephen Sommers Kevin Jarre Richard Schayer
-Liz Tuccillo Greg Behrendt
-Jon Favreau Doug Liman
-Doug Liman Robert Ludlum Tony Gilroy John-Henry Butterworth Joseph Wilson
-Uma Thurman
-Jonathan Hales George Lucas
-Brent Maddock Barry Sonnenfeld Jeffrey Price Peter S. Seaman John Thomas S.S. Wilson
-Sam Raimi David Koepp Ethan Coen Stan Lee Ivan Raimi Scott Spiegel Daniel Goldin Chuck Pfarrer Steve Ditko
-Stanley Donen Marc Behm Peter Stone
-Tim Burton Scott Alexander Sam Hamm Daniel Wallace Larry Karaszewski Andrew Kevin Walker Warren Skaaren
-David Madsen Ann Biderman
-Jason Filardi Burr Steers
-George Roy Hill David S. Ward
-Frank Darabont Michael Sloane Mary Shelley Stephen King Steph Lady
-Robert Rossen
-George P. Cosmatos David Webb Peoples Kevin Jarre James Cameron Sylvester Stallone
-Sean Penn Jon Krakauer
-Wes Craven Ronny Yu Victor Miller Damian Shannon Michael De Luca
-Callie Khouri Ridley Scott
-Laura Ziskin Frank Oz Tom Schulman
-Stephen Mazur
-Gary Whitta Albert Hughes Allen Hughes
-Daphne Du Maurier Alfred Hitchcock Evan Hunter
-Dennis Shryack Mike Gray Andrew Davis Michael Butler
-Massimo Troisi Michael Radford Furio Scarpelli Anna Pavignano Antonio Skármeta
-Sam Peckinpah Walon Green Walter Hill Roy N. Sickner
-Judd Apatow Evan Goldberg
-Sue Miller Pat O'Connor
-Joel Schumacher Larry Cohen Andrew Kevin Walker
-Dan Brown David Koepp Akiva Goldsman Ron Howard
-Edgar Wallace Philippa Boyens Peter Jackson
-Kuo Jung Tsai James Schamus Hui-Ling Wang Ang Lee
-Skip Woods Gavin Hood David Benioff Dominic Sena
-Robert Bloch Alfred Hitchcock Joseph Stefano
-David Koepp George Lucas Philip Kaufman Jeff Nathanson Stan Lee Steven Zaillian Michael Crichton Akiva Goldsman H.G. Wells Robert Towne Brian De Palma David Fincher Ron Howard Steve Ditko Richard Matheson
-Francine McDougall
-Randall Rubin
-Adam Small John Whitesell Nick Swardson Fax Bahr Jamie Kennedy
-Rose Bosch Ridley Scott
-Robert Benton Avery Corman Robert Towne
-Guillaume Laurant Jean-Pierre Jeunet
-Rospo Pallenberg
-Larry Cohen David R. Ellis
-Terry Rossio Gore Verbinski Ted Elliott Roland Emmerich
-Caspian Tredwell-Owen Michael Bay Alex Kurtzman
-Ken Wheat David Twohy Jim Wheat
-George Lucas Philip Kaufman Irvin Kershner Jeff Nathanson Lawrence Kasdan Bob Dolman Leigh Brackett Richard Marquand Jeffrey Boam Ron Howard Gloria Katz
-Nicholas Sparks Adam Shankman Karen Janszen
-Ethan Coen Robert Ramsey Homer John Romano William Rose
-George Axelrod Richard Condon
-Philip Kaufman Jeff Nathanson Lawrence Kasdan Jeffrey Boam
-Jon Bokenkamp Michael Pye
-David Klass Channing Gibson David Levien Mort Briskin
-Agnieszka Wojtowicz-Vosloo Paul Vosloo
-David S. Ward Jeff Arch
-Paul Greengrass Robert Ludlum Tony Gilroy Scott Z. Burns
-Tony Kaye
-John Hodge Alex Garland
-Robert C. Jones
-James Gunn
-Joe Eszterhas Paul Verhoeven
-Paul McGuigan Gilles Mimouni Brandon Boyce
-Barry Sonnenfeld Lowell Cunningham Ed Solomon Larry Wilson Jeffrey Price Peter S. Seaman John Thomas S.S. Wilson
-Ring Lardner Jr.
-David Veloz Richard Rutowski
-Sung-ho Kim Grégory Levasseur
-Vladimir Moiseenko Nikita Mikhalkov Aleksandr Novototskiy-Vlasov
-H.C. Potter Melvin Frank Eric Hodgins Norman Panama
-Adam Shankman Robert Ben Garant Thomas Lennon Karen Janszen
-Irvin Kershner Lawrence Kasdan Leigh Brackett
-James Hilton Sidney Buchman Robert Riskin
-Lowell Ganz Émile Gaudreault Ron Howard
-Ann Biderman Michael Mann Ronan Bennett
-Billy Ray Zak Penn E. Elias Merhige
-Jeff Nathanson Stan Redding Ross LaManna
-James Schamus Rick Moody Hui-Ling Wang Ang Lee
-Stanley Kubrick Diane Johnson Stephen King William Makepeace Thackeray
-Gabriel Axel Karen Blixen
-Guinevere Turner Bret Easton Ellis Mary Harron
-Robert Crais Florent-Emilio Siri Doug Richardson
-Wolfgang Petersen
-Stephen Norrington
-Gregory Hoblit Daniel Pyne
-Karen McCullah Kirsten Smith Gil Junger
-Nelson Shin Baik Seung Kyun Kôzô Morishita Margaret Nichols Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-Jonathan Mostow
-Sean S. Cunningham Ron Kurz Victor Miller
-Lem Dobbs
-David Weissman
-Karen Blixen
-Etan Cohen Justin Theroux
-Lawrence Kasdan Leigh Brackett Richard Marquand
-Stan Lee Michael France Tim Story Steve Ditko
-Earl Mac Rauch
-Carter Smith
-Dale Wasserman Milos Forman
-Lloyd Fonvielle John L. Balderston Stephen Sommers Kevin Jarre Richard Schayer
-Douglas Aarniokoski William N. Panzer Eric Bernt Gillian Horvath Gregory Widen
-Jason Reitman Sheldon Turner
-André P. Brink Colin Welland Euzhan Palcy
-Roman Polanski Robert Towne
-Paul Vosloo
-John L. Balderston Daniel Moore Stephen Sommers Paul Perez Kevin Jarre Philip Dunne Michael Mann James Fenimore Cooper Richard Schayer
-Troy Kennedy-Martin F. Gary Gray Donna Powers Wayne Powers
-Michael Ondaatje
-David Mamet Larry Beinhart Barry Levinson Jay Presson Allen
-Peyton Reed Jarrad Paul
-Ted Tally Thomas Harris Jonathan Demme
-Derek Haas J.G. Jones Michael Brandt
-Renny Harlin John Long Michael France Sylvester Stallone Shane Black
-Chad Hayes Steve Lieber Greg Rucka Erich Hoeber Carey W. Hayes Dominic Sena Jon Hoeber
-Ernest Lehman Alexander Mackendrick Clifford Odets
-James McTeigue J. Michael Straczynski Matthew Sand Lilly Wachowski Lana Wachowski
-John Whitesell Nick Swardson Fax Bahr Jamie Kennedy
-Michael Radford Furio Scarpelli Anna Pavignano Antonio Skármeta
-C.D. Payne Miguel Arteta
-David Loughery Alexandre Dumas
-Ivan Raimi Daniel Goldin Chuck Pfarrer
-Alexander Payne Michael Crichton Tom Perrotta Jim Taylor Joe Johnston
-Alec Sokolow Joss Whedon Joe Ranft Pete Docter John Lasseter Joel Cohen Andrew Stanton
-John McTiernan Roderick Thorp Steven E. de Souza John Thomas
-Bryan Spicer John Kamps Arne Olsen
-Matt Manfredi Louis Leterrier Phil Hay Beverley Cross Travis Beacham
-Kim Barker Phil Traill
-Michael B. Gordon Stephen Sommers David Elliot
-J. Mackye Gruber Jeffrey Reddick David R. Ellis
-Peter Schink Scott Stewart
-Mark Mylod Collin Friesen
-Calder Willingham Buck Henry
-Scott Yagemann Kevin Reynolds
-Robert Ludlum Tony Gilroy Scott Z. Burns
-Walon Green Roy N. Sickner
-Bob Dolman Ron Howard
-Joss Whedon Joe Ranft Jean-Pierre Jeunet Pete Docter John Lasseter Joel Cohen Andrew Stanton Dan O'Bannon
-Gavin Hood David Benioff
-Brian Helgeland James Ellroy Curtis Hanson Richard Donner Lilly Wachowski A.J. Quinnell Lana Wachowski
-Andy Diggle Sylvain White Jock Peter Berg
-Uwe Boll Peter Scheerer Elan Mastai
-Harvey Pekar Joyce Brabner Robert Pulcini
-Louis Leterrier Phil Hay Beverley Cross Travis Beacham
-Ridley Scott Charles Gieg Jr. Danilo Bach Steven Zaillian William Nicholson David Webb Peoples David Twohy Danielle Alexandra Howard Franklin Warren Lewis David Franzoni
-Richard Condon
-Warren Beatty Robert Towne
-Steve Lieber Greg Rucka Erich Hoeber Carey W. Hayes Dominic Sena Jon Hoeber
-Thomas Carter Cheryl Edwards
-Anna Boden
-Frank Oz Tom Schulman
-Robert Harmon
-Jon Hurwitz Danny Leiner Hayden Schlossberg
-H.B. Halicki Scott Rosenberg Dominic Sena
-Gilles Mimouni Brandon Boyce
-Frank Herbert
-Marshall Herskovitz Edward Zwick
-William N. Panzer Eric Bernt Gillian Horvath Gregory Widen
-Iain Softley
-Christian Duguay Dan Gordon
-Phillip Noyce Wesley Strick
-Phil Traill
-Ethan Reiff John Stevenson Chris Poche Jonathan Aibel Cyrus Voris
-Jeff Reno Ron Osborn Kevin Wade Gladys Lehman
-Brannon Braga Rick Berman Jonathan Frakes John Woo David Carson Robert Towne
-David Weisberg Michael Bay Douglas Cook Mark Rosner
-Tony Randel Peter Atkins
-Armando Iannucci Jesse Armstrong Tony Roche Simon Blackwell Ian Martin
-Ted Demme Robert Ramsey Nick Cassavetes
-J. Michael Straczynski Matthew Sand
-Bob Rafelson
-Martin Curland
-Alexander Mackendrick Clifford Odets
-Collin Friesen
-Simon West Jake Wade Wall Steve Feke Fred Walton
-Sandy Glass George Arthur Bloom Steven W. Carabatsos
-Dominique Lapierre
-Chuck Barris Charlie Kaufman George Clooney
-Dave Johannson Nick Schenk
-Charlie Kaufman Spike Jonze George Clooney Susan Orlean
-Neil Cuthbert Bob Burden
-Joe Ranft Pete Docter John Lasseter Joel Cohen Andrew Stanton
-George Arthur Bloom Steven W. Carabatsos
-Daniel Moore Paul Perez Philip Dunne Michael Mann James Fenimore Cooper
-Richard Attenborough
-Darren Aronofsky Sean Gullette Robert Siegel
-Robert Kraft Steven E. de Souza Bruce Willis Michael Lehmann
-David Griffiths Andrew Davis
-Tim Herlihy
-Billy Bob Thornton
-Scott Alexander Larry Karaszewski Milos Forman
-Lawrence Wright Edward Zwick
-Alex Garland
-Baz Luhrmann Craig Pearce
-Joseph D. Pistone Mike Newell
-Tony Gilroy Scott Z. Burns Jonathan Lemkin
-Peter Atkins
-Jaume Collet-Serra David Leslie Johnson-McGoldrick Alex Mace
-David E. Lewis Alan J. Pakula Andy Lewis
-John Waters
-Larry Clark Harmony Korine
-Walter Reisch Ernst Lubitsch Charles Brackett Billy Wilder
-Baik Seung Kyun Kôzô Morishita Margaret Nichols Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-Kôzô Morishita Margaret Nichols Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-John Brancato Michael Ferris David Fincher
-Joyce Brabner Robert Pulcini
-Alan Le May
-Eric Darnell Tim Johnson Paul Weitz Todd Alcott
-Graham Baker
-Carl Gottlieb Jeannot Szwarc
-Richard Kelly
-Edmund H. North Harry Bates
-James Mangold Patrick O'Neill
-Alfred Hitchcock Patricia Highsmith Raymond Chandler Joseph Stefano Whitfield Cook Cornell Woolrich Charles Bennett Ben Hecht Evan Hunter
-David Leslie Johnson-McGoldrick Alex Mace
-Sidney Buchman Robert Riskin
-Douglas Adams Karey Kirkpatrick Garth Jennings
-Steven Lisberger Bonnie MacBird Charles S. Haas
-Adam Herz Paul Weitz
-Melvin Frank Michael Curtiz Eric Hodgins Norman Panama
-Margaret Nichols Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-Charles Randolph
-Michael Rymer Michael Petroni Anne Rice
-Jeremy Brock
-Christopher Bram
-John Bowe Michael Holman Lech Majewski Julian Schnabel
-Michael Cuesta Anthony Cipriano
-Rick Moranis Dan Aykroyd
-Simon Moore Stephen Gaghan
-John Kamps Arne Olsen
-Harry Brown George Clayton Johnson
-James Ellroy Curtis Hanson Joe Carnahan Brian De Palma
-Colin Welland Euzhan Palcy
-Lou Holtz Jr.
-Roderick Thorp Steven E. de Souza
-Evan Goldberg
-Richard Rutowski
-Herman J. Mankiewicz John Houseman Mollie Kent
-Jeremy Drysdale David Caffrey
-Charles Gieg Jr.
-Dan Futterman Gerald Clarke Bennett Miller
-Walter Hill Steven E. de Souza James Cameron Vincent Ward Dan O'Bannon David Giler David Fincher
-Tim Johnson Paul Weitz Todd Alcott
-Penny Marshall Oliver Sacks Steven Zaillian Anne Spielberg Gary Ross
-Jan de Bont Shirley Jackson
-Joseph Carter Mardik Martin Peter Savage
-Michael H. Weber Scott Neustadter Marc Webb
-Thomas Harris Michael Mann Jonathan Demme
-Norman A. Fox D.D. Beauchamp Nathan Juran
-Franklin J. Schaffner John T. Kelley Pierre Boulle Michael Wilson
-Robert Altman Joan Tewkesbury
-Sebastian Gutierrez
-F. Gary Gray Donna Powers Wayne Powers
-John Long Michael France Sylvester Stallone
-Joseph Conrad Michael Herr
-Bobby Farrelly Bennett Yellin Peter Farrelly
-Paul Bernbaum Lee Tamahori
-Sean Gullette
-Robert Pulcini
-Karey Kirkpatrick Garth Jennings
-Rick Berman Jonathan Frakes Michael Piller David Carson
-Tom Schulman
-Michael Hirst William Nicholson Shekhar Kapur
-Bruce Feirstein Ian Fleming
-Gerald Clarke Bennett Miller
-Bruce Graham Don Bluth
-John Glenn Hillary Seitz
-Chuck Jones Joe Dante Chris Columbus Charles S. Haas
-Leslie Waller Frank Pierson
-Robert Getchell Michael Caton-Jones Tobias Wolff
-Peter Scheerer Elan Mastai
-Phil Hay Beverley Cross Travis Beacham
-Philippa Boyens Peter Jackson
-Scott Spiegel
-Masahiko Ôkura Masao Itô Norm McCabe Bob Matz
-Beverley Cross Travis Beacham
-Alex Haley Arnold Perl
-J.G. Jones Michael Brandt
-Ernst Lubitsch Charles Brackett Billy Wilder
-Clarence Budington Kelland Robert Riskin
-Roy N. Sickner
-Ron Osborn Kevin Wade Gladys Lehman
-Nick Hornby Lone Scherfig Stephen Frears John Cusack Lynn Barber D.V. DeVincentis Scott Rosenberg
-Michael Holman Lech Majewski Julian Schnabel
-Robert Ramsey John Romano
-Cameron Crowe Amy Heckerling
-Shawn Levy Josh Klausner
-Furio Scarpelli Anna Pavignano Antonio Skármeta
-Bret Easton Ellis Mary Harron
-Avery Corman
-Sarah Kernochan
-Oliver Sacks Steven Zaillian
-Sylvain White Jock Peter Berg
-Jim Garrison
-Tom Bleecker Marc Rocco
-Spike Jonze Maurice Sendak Susan Orlean
-Robert Riskin Harry Chandlee Jo Swerling
-Quinn K. Redeker
-D.D. Beauchamp Nathan Juran
-Michael Caton-Jones Tobias Wolff
-Lech Majewski Julian Schnabel
-Lincoln Child Amanda Silver Douglas Preston Peter Hyams
-John T. Kelley Pierre Boulle Michael Wilson
-Harve Bennett Nicholas Meyer Jack B. Sowards
-Danilo Bach Howard Franklin
-Michael Ferris David Fincher
-Jake Wade Wall Steve Feke Fred Walton
-Uli Edel Brad Mirman
-Philip Eisner Paul W.S. Anderson
-Stephen Sommers David Elliot Kevin Jarre Richard Schayer
-Arne Olsen
-Marc Perrier Luc Besson Alain Le Henry
-Bennett Miller
-Elmore Leonard Scott Frank
-Rick Moody Ang Lee
-Shirley Jackson
-Miguel Arteta
-Michael Brandt
-Brandon Boyce Bryan Singer Stephen King
-Buck Henry
-Del Frazier Harold Medford
-Bonnie MacBird Charles S. Haas
-Taylor Duffy
-Frank A. Cappello Garth Ennis Kevin Brodbin
-Pierre Boulle Michael Wilson
-Greg Behrendt
-Jean-Pierre Jeunet Dan O'Bannon
-John C. Champion Hall Bartlett David Zucker Jerry Zucker Arthur Hailey
-Erik Skjoldbjærg Hillary Seitz Christopher Nolan
-Robin Driscoll Rowan Atkinson
-Marie Brenner Eric Roth Michael Mann
-Delia Ephron
-Lowell Cunningham Ed Solomon
-Tom McCarthy Pete Docter
-Simon Michaël James Cameron Claude Zidi
-Eric Roth Richard LaGravenese Robin Swicord Winston Groom F. Scott Fitzgerald Michael Mann David Fincher
-Don Roos Scott Frank
-Ed Solomon
-Steven Fechter
-Michael France Tim Story Sylvester Stallone
-Bryan Singer Tom DeSanto Stephen King
-Curtis Hanson Steve Kloves Michael Chabon
-Carl Franklin Walter Mosley
-David Zelag Goodman George Clayton Johnson
-Ian Fleming
-Steven Zaillian Robert Towne Brian De Palma Kenneth Lonergan
-Greg Rucka Erich Hoeber Carey W. Hayes Dominic Sena Jon Hoeber
-Nick Cassavetes James Kearns
-Wayne Kramer Frank Hannah
-John Stevenson Chris Poche Jonathan Aibel Cyrus Voris
-Bruce Robinson
-Paul Weitz Todd Alcott
-Michael Bay Michael Barrie Douglas Cook Mark Rosner George Gallo Jim Mulholland Randall Wallace Alex Kurtzman Doug Richardson
-Frank Hannah
-Woody Allen Marshall Brickman
-Jeff Arch
-Jesse Armstrong Tony Roche Simon Blackwell Ian Martin
-Kurt Russell Nick Castle Debra Hill John Carpenter
-Leo Marks
-Lone Scherfig Lynn Barber
-Ronny Yu Victor Miller Damian Shannon
-Philip D. Zelikow
-Marc Norman
-Ice Cube Steve Carr
-Hall Bartlett David Zucker Jerry Zucker Arthur Hailey
-Marc Rocco
-Richard LaGravenese Toni Morrison Jonathan Demme Akosua Busia
-Brent Simons Alan Schoolcraft Tom McGrath
-Robert Ben Garant Thomas Lennon
-Robbie Fox
-Michael Wilson Jo Swerling Frances Goodrich Albert Hackett Philip Van Doren Stern
-Kyle Rankin Efram Potelle
-Tony Roche Simon Blackwell Ian Martin
-Michael Sloane
-Charles Burnett
-Norman Snider David Cronenberg
-Michael Cristofer Tom Wolfe Brian De Palma
-Neal Israel Bob Israel
-John Pielmeier
-Courtney Hunt
-David Marconi
-Hillary Seitz Christopher Nolan
-Michael Curtiz Norman Panama
-Michael Hoffman
-Jonathan Frakes Michael Piller
-Robin Swicord F. Scott Fitzgerald David Fincher
-Joe Carnahan
-Morrie Ryskind Howard Hawks Ben Hecht
-Scott Moore Jon Lucas
-David Zucker Jerry Zucker Arthur Hailey
-Grant Heslov Jon Ronson
-Gillo Pontecorvo Franco Solinas
-Erich Hoeber Carey W. Hayes Dominic Sena Jon Hoeber
-Stephen Gaghan
-Simon Wells H.G. Wells
-Jeannot Szwarc
-Bernhard Schlink David Hare
-Melissa Mathison
-Dan Gordon
-Roy Huggins David Twohy Andrew Davis
-Joel Hopkins
-David Cronenberg Steven Knight
-Pete Docter John Lasseter Joel Cohen Jim Reardon Andrew Stanton
-Benjamin Ross Thomas Lennon
-Kevin Wade Gladys Lehman
-John Woo Michael Colleary Graham Yost Mike Werb Robert Towne
-Tod Davies Hunter S. Thompson Terry Gilliam
-Stephen Frears John Cusack D.V. DeVincentis Scott Rosenberg
-Larry Wilson
-Millard Kaufman Howard Breslin Don McGuire
-Nick Schenk
-Steven W. Carabatsos
-Geoffrey Wright
-Scott Neustadter Marc Webb
-Gary Scott Thompson Paul Verhoeven
-John Houseman Mollie Kent
-Pamela Wallace Earl W. Wallace William Kelley
-Joan Tewkesbury
-Harry Chandlee Jo Swerling
-Sam Hamm Warren Skaaren
-Florent-Emilio Siri Doug Richardson
-Jo Swerling Frances Goodrich Albert Hackett Philip Van Doren Stern
-Jim Sharman Richard O'Brien
-Clifford Odets
-Lowell Cannon Graham Yost Brian De Palma John Thomas
+Glenn_Gers Gregory_Hoblit Daniel_Pyne
+Frank_Spotnitz Chris_Carter Rob_Bowman
+Jeff_Zuber Tom_Zuber
+Tom_Hooper Peter_Morgan David_Seidler David_Peace
+Ron_Friedman John_Freeman Shigeyasu_Yamauchi Nelson_Shin Baik_Seung_Kyun Kôzô_Morishita Margaret_Nichols Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+Dan_McDermott Travis_Wright D.J._Caruso John_Glenn Hillary_Seitz
+Brian_Mulroney Mike_de_Seve Mike_Judge Joe_Stillman Yvette_Kaplan
+Christopher_Wilkinson Gregory_Allen_Howard Stephen_J._Rivele Eric_Roth Michael_Mann
+Edward_Neumeier Paul_Verhoeven Robert_A._Heinlein
+Tim_Day Carl_V._Dupré Clive_Barker Neal_Marshall_Stevens Rick_Bota
+Harold_Manning Armando_Iannucci Jesse_Armstrong Tony_Roche Simon_Blackwell Ian_Martin
+David_Morrell George_P._Cosmatos Kevin_Jarre James_Cameron Sylvester_Stallone
+Paul_Attanasio Richard_Woodley Kurt_Wimmer Joseph_D._Pistone Michael_Crichton Barry_Levinson Mike_Newell Stephen_Hauser
+Sylvie_Bouchard Babaloo_Mandel Lowell_Ganz Émile_Gaudreault Ron_Howard
+Tom_Zuber
+Arthur_Penn David_Newman Robert_Benton Robert_Towne
+Jerzy_Kosinski Hal_Ashby Robert_C._Jones
+Rob_Cohen Rich_Wilkes
+Guillermo_Arriaga Alejandro_G._Iñárritu
+Hilary_Henkin David_Mamet Larry_Beinhart Barry_Levinson
+Jakub_Korolczuk Agnieszka_Wojtowicz-Vosloo Paul_Vosloo
+John_Ford Frank_S._Nugent Alan_Le_May
+Douglas_W._Churchill Frank_Capra Robert_Riskin Harry_Chandlee Jo_Swerling
+Marv_Wolfman Guillermo_del_Toro David_S._Goyer Gene_Colan
+Albert_Magnoli William_Blinn
+Nathan_Parker Duncan_Jones
+Czenzi_Ormonde Alfred_Hitchcock Patricia_Highsmith Raymond_Chandler Whitfield_Cook Ben_Hecht
+Alejandro_Amenábar Mateo_Gil Cameron_Crowe
+John_Madden Tom_Stoppard Jeremy_Brock Marc_Norman
+Jack_Epps_Jr. Tony_Scott Ehud_Yonay Jim_Cash Warren_Skaaren
+Paul_Mayersberg Mike_Hodges
+John_Maybury Massy_Tadjedin Tom_Bleecker Marc_Rocco
+Ken_Selden Geoffrey_Wright
+Mathieu_Kassovitz Sebastian_Gutierrez
+Mark_Medoff Roland_Joffé Dominique_Lapierre
+Ronald_Harwood Wladyslaw_Szpilman Roman_Polanski István_Szabó
+Steven_McKay Bruce_Malmuth
+Hiroshi_Takahashi Kôji_Suzuki Hideo_Nakata
+Alvin_Sargent Robert_Redford Laura_Ziskin Frank_Oz Tom_Schulman Judith_Guest Nancy_Dowd
+Dustin_Lance_Black Gus_Van_Sant
+Susan_Gauthier Bob_Tzudiker Noni_White Gary_Goldman Eric_Tuchman Bruce_Graham Don_Bluth
+Dean_Devlin Terry_Rossio Ted_Elliott Roland_Emmerich
+Mark_Millar Timur_Bekmambetov Chris_Morgan Derek_Haas J.G._Jones Michael_Brandt
+Andy_Tennant Sarah_Thorp
+Terrence_Malick
+Amy_Holden_Jones John_Raffo Rick_Jaffa Lincoln_Child Amanda_Silver Douglas_Preston Peter_Hyams
+Carl_Reiner David_O'Malley
+Bryan_Burrough Ann_Biderman Michael_Mann Ronan_Bennett
+Cormac_McCarthy Joe_Penhall John_Hillcoat
+Chris_Carter Rob_Bowman
+Mike_de_Seve Mike_Judge Joe_Stillman Yvette_Kaplan
+Walter_Ferris Martin_Brest Alberto_Casella Bo_Goldman Maxwell_Anderson Jeff_Reno Ron_Osborn Kevin_Wade Gladys_Lehman
+Jack_Kirby Mark_Frost Stan_Lee Michael_France Tim_Story
+Danny_Rubin Harold_Ramis
+Susannah_Grant Steven_Soderbergh
+Susan_Montford Edward_Bryant
+Peter_Benchley Howard_Sackler Steven_Spielberg Carl_Gottlieb Jeannot_Szwarc
+Bob_Tzudiker Noni_White Gary_Goldman Eric_Tuchman Bruce_Graham Kenny_Ortega Don_Bluth
+Thomas_Keneally Steven_Spielberg Steven_Zaillian
+Winston_Miller Sidney_Lanfield Luke_Short Frank_Fenton
+Randy_Kornfield Jesse_Alexander Ellory_Elkayem
+Coline_Serreau Leonard_Nimoy Jim_Cruickshank James_Orr
+Valerie_Plame_Wilson Jez_Butterworth Doug_Liman John-Henry_Butterworth Joseph_Wilson
+Isaac_Asimov Jeff_Vintar Akiva_Goldsman Alex_Proyas
+Waldo_Salt James_Leo_Herlihy John_Schlesinger
+Thomas_Schlamme Robbie_Fox
+Ron_Underwood Brent_Maddock S.S._Wilson
+Nikolaj_Frobenius Erik_Skjoldbjærg Hillary_Seitz Christopher_Nolan
+Mel_Smith Richard_Curtis Robin_Driscoll Rowan_Atkinson
+Stanley_Weiser Oliver_Stone
+Pedro_Almodóvar
+Tony_Scott Greg_Hicks Roger_Avary Quentin_Tarantino Ehud_Yonay Brian_Helgeland David_Marconi Jim_Cash A.J._Quinnell Warren_Skaaren Shane_Black
+Bryce_Courtenay John_G._Avildsen Robert_Mark_Kamen
+Sidney_Lanfield Luke_Short Frank_Fenton
+Mark_Osborne Glenn_Berger Ethan_Reiff John_Stevenson Chris_Poche Jonathan_Aibel Cyrus_Voris
+Andrew_W._Marlowe Wolfgang_Petersen Gary_Scott_Thompson Paul_Verhoeven
+Adam_Sandler Steven_Brill Tim_Herlihy
+Don_DeLillo Michael_Hoffman
+Luke_Short Frank_Fenton
+Peter_Morgan Philippa_Gregory Stephen_Frears David_Peace Justin_Chadwick
+Annie_Proulx Robert_Nelson_Jacobs Lasse_Hallström
+Bari_Wood Jack_Geasland Norman_Snider David_Cronenberg
+Stephen_Daldry Bernhard_Schlink David_Hare
+Martin_Brest Alberto_Casella Bo_Goldman Maxwell_Anderson Jeff_Reno Ron_Osborn Kevin_Wade Gladys_Lehman
+Bruce_Porter David_McKenna Ted_Demme Nick_Cassavetes
+Andrzej_Bartkowiak John_O'Brien Channing_Gibson
+John_Fawcett Karen_Walton
+Karen_Leigh_Hopkins Jessie_Nelson Ronald_Bass Gigi_Levangie Steven_Rogers Chris_Columbus
+Dean_Craig Frank_Oz
+Gustin_Nash C.D._Payne Miguel_Arteta
+John_Herzfeld
+Frank_S._Nugent Alan_Le_May
+Bob_Kane Daniel_Waters Tim_Burton Sam_Hamm Warren_Skaaren
+David_Newman Robert_Benton Robert_Towne
+Jim_Thomas Ronald_Shusett Brent_Maddock Barry_Sonnenfeld John_McTiernan Lowell_Cannon Jeffrey_Price Graham_Yost Paul_W.S._Anderson Dan_O'Bannon Peter_S._Seaman Brian_De_Palma John_Thomas S.S._Wilson
+Pamela_Gray Wes_Craven
+Roald_Dahl Noah_Baumbach Wes_Anderson
+Arthur_C._Clarke Stanley_Kubrick
+Garry_Marshall Sara_Parriott J.F._Lawton Josann_McGibbon
+David_Lloyd James_McTeigue Lilly_Wachowski Lana_Wachowski
+Noni_White Gary_Goldman Eric_Tuchman Bruce_Graham Kenny_Ortega Don_Bluth
+Anthony_Hickox Clive_Barker Tony_Randel Peter_Atkins
+Steve_Koren Tom_Shadyac Mark_O'Keefe Steve_Oedekerk
+Carl_V._Dupré Clive_Barker Rick_Bota Adam_Rifkin
+Steve_Pink John_Morris Josh_Heald Sean_Anders Tom_Jankiewicz Nick_Hornby Stephen_Frears John_Cusack D.V._DeVincentis Scott_Rosenberg George_Armitage
+Du_Lu_Wang Kuo_Jung_Tsai James_Schamus Hui-Ling_Wang Ang_Lee
+John_Grogan David_Frankel Don_Roos Scott_Frank
+Mark_Jacobson Ridley_Scott Steven_Zaillian Henry_Bean
+Guillermo_del_Toro David_S._Goyer Donald_A._Wollheim Matthew_Robbins Gene_Colan Mike_Mignola Peter_Briggs
+John_Freeman Shigeyasu_Yamauchi Nelson_Shin Baik_Seung_Kyun Kôzô_Morishita Margaret_Nichols Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+Mark_Verheiden Mike_Werb Chuck_Russell Michael_Fallon
+Nora_Ephron Miklós_László David_S._Ward Delia_Ephron Jeff_Arch
+Irwin_Winkler Steve_Levitt Oliver_Sacks Mark_Andrus
+Anthony_Minghella Michael_Ondaatje Charles_Frazier Patricia_Highsmith
+Joel_Coen Matthew_Stone Sam_Raimi Ethan_Coen Robert_Ramsey Homer John_Romano William_Rose
+Robert_Kurtzman Robert_Rodriguez Quentin_Tarantino
+Greg_Hicks Shane_Black
+Ehren_Kruger Kevin_Williamson Wes_Craven
+Richard_Outten Mary_Lambert
+Kevin_Yagher Washington_Irving Tim_Burton Andrew_Kevin_Walker
+Danny_Boyle Aron_Ralston Irvine_Welsh Vikas_Swarup Simon_Beaufoy John_Hodge Alex_Garland Loveleen_Tandan
+Pj_Torokvei Martha_Coolidge Pat_Proft Neal_Israel
+Aron_Ralston Simon_Beaufoy
+Kenneth_Branagh Frank_Darabont Mary_Shelley Steph_Lady
+David_Seidler
+Kevin_Smith
+William_Shakespeare Karen_McCullah Baz_Luhrmann Kirsten_Smith Craig_Pearce Gil_Junger
+Doug_Jung James_Foley
+Joe_Connelly Paul_Schrader Martin_Scorsese
+Jerry_Lewis Joan_O'Brien Charles_Denton
+Brett_Ratner David_Diamond Jeff_Nathanson David_Weissman Jim_Kouf Ross_LaManna
+Peter_Weir Andrew_Niccol Tom_Schulman Pamela_Wallace Earl_W._Wallace William_Kelley
+Noah_Baumbach Wes_Anderson
+Jim_Abrahams John_C._Champion Hall_Bartlett David_Zucker Jerry_Zucker Arthur_Hailey
+Alexandre_Aja Sung-ho_Kim Grégory_Levasseur
+Martha_Coolidge Pat_Proft Calder_Willingham Neal_Israel
+Howard_Zieff Laurice_Elehwany
+Leonard_Nimoy Jim_Cruickshank James_Orr
+James_Leo_Herlihy John_Schlesinger
+Roberto_Orci Caspian_Tredwell-Owen Michael_Bay Alex_Kurtzman
+Eric_Bress J._Mackye_Gruber Jeffrey_Reddick David_R._Ellis
+Peter_Griffiths Ronald_Roose David_Griffiths Andrew_Davis
+Mike_Hodges Ted_Lewis
+Alberto_Casella Bo_Goldman Maxwell_Anderson Jeff_Reno Ron_Osborn Kevin_Wade Gladys_Lehman
+Clint_Eastwood John_Lee_Hancock J._Michael_Straczynski Dave_Johannson Nick_Schenk David_Baldacci William_Goldman
+Tony_Grisoni Alex_Cox Tod_Davies Hunter_S._Thompson Terry_Gilliam
+Jeffrey_Nachmanoff Roland_Emmerich
+Adam_Brooks Lawrence_Kasdan Richard_LaGravenese Toni_Morrison Jonathan_Demme Akosua_Busia
+John_Boorman Thomas_Malory Rospo_Pallenberg
+Orson_Welles Roger_Q._Denny Herman_J._Mankiewicz John_Houseman Mollie_Kent
+James_Wong Jeffrey_Reddick Glen_Morgan
+Lois_Duncan Danny_Cannon Trey_Callaway
+Rex_Pickett Barbara_Schock Alexander_Payne Jim_Taylor
+John_O'Brien Mike_Figgis Channing_Gibson
+Daniel_Clowes Terry_Zwigoff
+Malcolm_Venville Louis_Mellis David_Scinto
+Robert_Nelson_Jacobs Lasse_Hallström
+Oliver_Stone Quentin_Tarantino Jim_Marrs Zachary_Sklar David_Veloz Richard_Rutowski Jim_Garrison Randall_Jahnson Howard_Hawks John_Ridley Armitage_Trail Brian_De_Palma Ben_Hecht
+Richard_Woodley Joseph_D._Pistone Mike_Newell
+Menno_Meyjes Steven_Spielberg George_Lucas Philip_Kaufman Lawrence_Wright Edward_Zwick Jeffrey_Boam
+Thomas_Malory Rospo_Pallenberg
+Stephen_McFeely C.S._Lewis Andrew_Adamson Christopher_Markus Ann_Peacock
+David_Hayter Alex_Tse Bryan_Singer Dave_Gibbons Tom_DeSanto Alan_Moore Zack_Snyder
+Louis_Garfinkle Michael_Cimino Deric_Washburn Quinn_K._Redeker
+Norman_Jewison Richard_Jessup John_Patrick_Shanley Terry_Southern Ring_Lardner_Jr. John_Pielmeier
+Patrick_Sheane_Duncan John_Badham
+Russell_Banks Paul_Schrader Atom_Egoyan
+Michael_McCullers Mike_Myers Jay_Roach
+Andrew_Mogel Danny_Wallace Nicholas_Stoller Peyton_Reed Jarrad_Paul
+Gary_Goldman Ronald_Shusett Jonathan_Hensleigh Eric_Tuchman Jon_Povill Philip_K._Dick Paul_Bernbaum Bruce_Graham Paul_Verhoeven Don_Bluth Dan_O'Bannon Lee_Tamahori
+Mario_Puzo Francis_Ford_Coppola
+James_O'Barr John_Shirley David_S._Goyer David_J._Schow Chip_Johannessen Tim_Pope Bharat_Nalluri Alex_Proyas
+Spike_Lee Malcolm_X Alex_Haley Arnold_Perl
+Danny_DeVito Adam_Resnick
+Frank_Abagnale_Jr. Steven_Spielberg Jeff_Nathanson Stan_Redding
+Charles_Webb Mike_Nichols Calder_Willingham Buck_Henry
+John_Frankenheimer J.D._Zeik George_Axelrod David_Mamet Richard_Condon
+Barry_Reed Sidney_Lumet David_Mamet Jay_Presson_Allen
+Mike_Reiss Ken_Finkleman Al_Jean
+Richard_Ben_Cramer John_Logan Benjamin_Ross Thomas_Lennon
+J.R.R._Tolkien Fran_Walsh Philippa_Boyens Peter_Jackson
+Louis_Mellis David_Scinto
+Steven_Soderbergh Jack_Golden_Russell Ted_Griffin George_Nolfi Charles_Lederer Lem_Dobbs Simon_Moore Harry_Brown Elmore_Leonard Stephen_Gaghan George_Clayton_Johnson Scott_Frank Stanislaw_Lem
+David_Duncan John_Logan Simon_Wells H.G._Wells
+Ivan_Reitman Harold_Ramis Rick_Moranis Dan_Aykroyd
+Peter_Laird Kevin_Eastman Kevin_Munroe
+Jason_Friedberg Aaron_Seltzer
+Peter_Buchman Alexander_Payne Michael_Crichton Jim_Taylor Joe_Johnston
+Allen_Coulter Will_Fetters
+Jez_Butterworth Doug_Liman Tom_Butterworth John-Henry_Butterworth Joseph_Wilson
+Rob_Zombie
+Alan_Parker Charles_Randolph
+Brian_Koppelman Kevin_Bray David_Klass Channing_Gibson David_Levien Mort_Briskin
+Dan_Kay Tony_Giglio
+P.F._Kluge Sidney_Lumet Thomas_Moore Leslie_Waller Frank_Pierson
+Willard_Huyck Steven_Spielberg George_Lucas Gloria_Katz
+I.A.L._Diamond Billy_Wilder Arthur_Conan_Doyle
+Peter_Steinfeld Harold_Ramis Peter_Tolan Kenneth_Lonergan
+Richard_Curtis Robin_Driscoll Roger_Michell Rowan_Atkinson
+Timur_Bekmambetov Chris_Morgan Derek_Haas J.G._Jones Michael_Brandt
+J.D._Zeik David_Mamet
+Danny_Cannon Trey_Callaway
+M._Night_Shyamalan
+Jessie_Nelson Kristine_Johnson Ronald_Bass Gigi_Levangie Steven_Rogers Chris_Columbus
+Stephen_Herek David_Loughery Alexandre_Dumas
+Ken_Hixon Sue_Miller Pat_O'Connor
+Sarah_Thorp
+Emile_Ardolino Paul_Rudnick
+Ronald_Shusett Larry_Ferguson Jon_Povill Philip_K._Dick Steven_Seagal Joss_Whedon Walter_Hill Jean-Pierre_Jeunet Andrew_Davis James_Cameron Paul_W.S._Anderson Paul_Verhoeven Steven_Pressfield Vincent_Ward Dan_O'Bannon David_Giler John_Thomas David_Fincher
+McG Ben_Roberts John_August John_Brancato Michael_Ferris Ivan_Goff Cormac_Wibberley Marianne_Wibberley
+Tom_Stoppard Marc_Norman Charles_McKeown Charles_Alverson Terry_Gilliam
+Glenn_Berger Ethan_Reiff John_Stevenson Chris_Poche Jonathan_Aibel Cyrus_Voris
+Duncan_Jones
+John_Morris Josh_Heald Sean_Anders Jim_Field_Smith
+Miklós_László Delia_Ephron
+Christopher_McQuarrie Nathan_Alexander Bryan_Singer Florian_Henckel_von_Donnersmarck Jérôme_Salle Julian_Fellowes
+Clive_Barker Tony_Randel Peter_Atkins Neal_Marshall_Stevens Rick_Bota
+Jonathan_Hensleigh Philip_K._Dick Leslie_Charteris Phillip_Noyce Paul_Bernbaum Wesley_Strick Lee_Tamahori
+Michael_Tolkin Henry_Bean Bill_Duke
+Tony_Giglio
+Pat_Proft Neal_Israel Bob_Israel
+Roger_Q._Denny Herman_J._Mankiewicz John_Houseman Mollie_Kent
+Richard_Jessup Terry_Southern Ring_Lardner_Jr.
+Matthew_Stone Ethan_Coen Ted_Demme Robert_Ramsey John_Romano
+Craig_Bolotin Ridley_Scott Warren_Lewis
+Pen_Densham Kevin_Reynolds John_Watson
+Jon_Amiel Ronald_Bass Michael_Hertzberg William_Broyles_Jr. David_Madsen Ann_Biderman
+Duane_Adler Thomas_Carter Cheryl_Edwards
+Travis_Wright D.J._Caruso John_Glenn Hillary_Seitz
+Paul_Guay Tom_Shadyac Stephen_Mazur
+Jay_Wolpert Stuart_Beattie Terry_Rossio Gore_Verbinski Ted_Elliott
+Harald_Kloser Roland_Emmerich
+Lawrence_B._Marcus John_Haase Barbara_Turner Richard_Lester
+Alexandre_Rockwell Robert_Rodriguez Quentin_Tarantino Allison_Anders Chuck_Jones
+Anthony_Peckham Lionel_Wigram Arthur_Conan_Doyle Simon_Kinberg Michael_Robert_Johnson Guy_Ritchie
+Jonathan_Schroder Randall_Rubin
+Josh_Friedman Steven_Spielberg David_Koepp James_Ellroy H.G._Wells Brian_De_Palma
+Eric_Tuchman Bruce_Graham Don_Bluth
+Will_Fetters
+Diablo_Cody Karyn_Kusama Jason_Reitman
+Shigeyasu_Yamauchi Nelson_Shin Baik_Seung_Kyun Kôzô_Morishita Margaret_Nichols Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+David_Frankel Don_Roos Scott_Frank
+Robert_Rodriguez Quentin_Tarantino Allison_Anders Chuck_Jones
+Jack_Bernstein Tom_Shadyac Jim_Carrey
+Scot_Armstrong Kent_Alterman
+Christine_Jeffs Megan_Holley
+Ben_Roberts John_August Ivan_Goff Cormac_Wibberley Marianne_Wibberley
+Carl_Ellsworth Christopher_Landon D.J._Caruso
+Paul_Schrader Jake_LaMotta Martin_Scorsese Joseph_Carter Mardik_Martin Peter_Savage
+Kurt_Wimmer F._Gary_Gray Michael_Crichton Barry_Levinson Stephen_Hauser
+Rob_Bowman
+Mark_Steven_Johnson
+David_Self Roger_Donaldson Ernest_R._May Jan_de_Bont Shirley_Jackson Philip_D._Zelikow
+Joshua_Goldin Sam_Raimi Ivan_Raimi Daniel_Goldin Chuck_Pfarrer
+Kristine_Johnson
+Jay_Parini Michael_Hoffman
+Norman_Krasna Melvin_Frank Michael_Curtiz Norman_Panama
+Mark_Hanlon Steve_Beck John_Pogue
+Hampton_Fancher Philip_K._Dick Ridley_Scott David_Webb_Peoples
+Ronald_Bass Scott_Hicks Gigi_Levangie Michael_Hertzberg William_Broyles_Jr. David_Guterson Steven_Rogers P.J._Hogan Chris_Columbus
+Mark_Protosevich Tarsem_Singh
+Gerald_Di_Pego Luis_Mandoki
+Karyn_Kusama
+Nechama_Tec Clayton_Frohman Edward_Zwick
+Sidney_Lumet Thomas_Moore David_Mamet Leslie_Waller Jay_Presson_Allen Frank_Pierson
+Roger_Avary Quentin_Tarantino
+John_Badham
+Josh_Heald Sean_Anders
+Michael_Cimino Deric_Washburn Quinn_K._Redeker
+Scott_Abbott Michael_Rymer Michael_Petroni Anne_Rice
+Kathryn_Bigelow Jay_Cocks W._Peter_Iliff James_Cameron Rick_King
+Ronald_D._Moore Bruce_Geller Gene_Roddenberry Brannon_Braga Rick_Berman Jonathan_Frakes John_Woo David_Carson Robert_Towne
+Scott_Hicks David_Guterson
+Tom_Shadyac Mark_O'Keefe Stephen_Mazur Steve_Oedekerk Jim_Carrey
+Sabi_H._Shabtai Christian_Duguay Dan_Gordon
+Christopher_De_Vore Ashley_Montagu Frederick_Treves David_Lynch Eric_Bergren
+Paul_Rudnick
+Todd_Phillips Scott_Moore Jon_Lucas
+Sean_Anders Jim_Field_Smith
+Kaja_Blackley Henry_Selick Sam_Hamm
+Rod_Serling Franklin_J._Schaffner John_T._Kelley Pierre_Boulle Michael_Wilson
+W.D._Richter Earl_Mac_Rauch
+Ryan_Fleck Anna_Boden
+Ken_Finkleman Al_Jean
+Clark_Gregg Robert_Zemeckis Sarah_Kernochan
+Larry_Ferguson Walter_Hill Russell_Mulcahy Peter_Bellwood Vincent_Ward Dan_O'Bannon David_Giler David_Fincher Gregory_Widen
+William_Blinn
+Jonathan_Reynolds Marty_Kaplan Jonathan_Lynn
+John_Sayles
+Greg_Mottola Seth_Rogen Evan_Goldberg
+Bill_Lancaster John_Carpenter John_W._Campbell_Jr.
+Bill_Condon Christopher_Bram
+Merian_C._Cooper Fran_Walsh Edgar_Wallace Philippa_Boyens Peter_Jackson
+Melchior_Lengyel Walter_Reisch Ernst_Lubitsch Charles_Brackett Billy_Wilder
+Todd_Farmer Victor_Miller James_Isaac
+Sapphire Geoffrey_Fletcher Lee_Daniels
+John_Raffo Rick_Jaffa Lincoln_Child Amanda_Silver Douglas_Preston Peter_Hyams
+Andrew_Bergman Gregory_McDonald Michael_Ritchie Phil_Alden_Robinson
+John_C._Richards James_Flamberg Neil_LaBute
+Barry_Gifford David_Lynch
+Rian_Johnson
+John_Shirley David_J._Schow Alex_Proyas
+Robert_Penn_Warren Robert_Rossen
+Frank_Fenton
+Terry_George Keir_Pearson
+Gigi_Levangie Steven_Rogers Chris_Columbus
+Sam_Montgomery Jonathan_Mostow
+Peter_Howitt Howard_Franklin
+John_Sturges Millard_Kaufman Howard_Breslin Don_McGuire
+Alex_Cox Tod_Davies Hunter_S._Thompson Terry_Gilliam
+Roger_Donaldson Ernest_R._May Philip_D._Zelikow
+Al_Jean
+Ken_Kwapis Marc_Silverstein Abby_Kohn Liz_Tuccillo Greg_Behrendt
+Thomas_Moore Leslie_Waller Frank_Pierson
+Ernest_K._Gann Charles_Jarrott Sandy_Glass George_Arthur_Bloom Steven_W._Carabatsos
+Takashi_Shimizu Stephen_Susco
+Malcolm_X Alex_Haley Arnold_Perl
+Marc_Silverstein Abby_Kohn Liz_Tuccillo Greg_Behrendt
+Jack_Golden_Russell Ted_Griffin George_Nolfi Charles_Lederer Harry_Brown George_Clayton_Johnson
+Ashley_Montagu Frederick_Treves David_Lynch Eric_Bergren
+Gregory_Allen_Howard Stephen_J._Rivele Eric_Roth Michael_Mann
+Kinka_Usher Neil_Cuthbert Bob_Burden
+Roger_Spottiswoode Larry_Gross Walter_Hill Bruce_Feirstein Ian_Fleming Steven_E._de_Souza
+Jon_Povill Philip_K._Dick Paul_Verhoeven Dan_O'Bannon
+Francis_Ford_Coppola John_Milius Joseph_Conrad Michael_Herr
+Carole_Eastman Bob_Rafelson
+Dave_Eggers Spike_Jonze Maurice_Sendak
+Sophie_Schmit Pierre_Jolivet Marc_Perrier Luc_Besson Alain_Le_Henry
+Washington_Irving Tim_Burton Andrew_Kevin_Walker
+David_S._Goyer Stephen_Norrington Tim_Pope Gene_Colan
+Jim_Cruickshank James_Orr
+Michael_Anderson William_F._Nolan David_Zelag_Goodman George_Clayton_Johnson
+Joan_Chen Allison_Burnett
+Gregory_McDonald Michael_Ritchie Phil_Alden_Robinson
+Ted_Griffin Charles_Lederer Harry_Brown George_Clayton_Johnson
+David_Diamond David_Weissman
+James_Orr
+Mandy_Nelson Francine_McDougall
+Jake_LaMotta Martin_Scorsese Joseph_Carter Mardik_Martin Peter_Savage
+Philippa_Gregory Justin_Chadwick
+Alan_Dean_Foster Robert_Wise Gene_Roddenberry Harold_Livingston
+Babaloo_Mandel Lowell_Ganz Émile_Gaudreault Ron_Howard
+James_M._Cain Raymond_Chandler Billy_Wilder
+Nick_Guthe
+Stephen_J._Rivele Eric_Roth Michael_Mann
+Trey_Callaway
+Hugh_Wilson Bill_Kelly
+Rachel_Talalay Wes_Craven Michael_De_Luca
+Peter_Shaffer Zdenek_Mahler Milos_Forman
+Philip_K._Dick Jon_Cohen Steven_Spielberg Ridley_Scott Paul_Bernbaum David_Webb_Peoples Scott_Frank Paul_Verhoeven Dan_O'Bannon Lee_Tamahori
+Quentin_Tarantino Allison_Anders Uma_Thurman David_Veloz Richard_Rutowski Chuck_Jones Elmore_Leonard
+John_Briley Richard_Attenborough
+Robert_Zemeckis Gary_K._Wolf William_Broyles_Jr. Sarah_Kernochan Eric_Roth Winston_Groom Jeffrey_Price Richard_Williams Peter_S._Seaman
+Steven_Seagal Andrew_Davis Steven_Pressfield
+Jeb_Stuart George_P._Cosmatos John_McTiernan Roderick_Thorp Roy_Huggins Steven_E._de_Souza David_Webb_Peoples David_Twohy Andrew_Davis
+Caroline_Thompson Charles_Addams Barry_Sonnenfeld Larry_Wilson
+Allison_Anders Chuck_Jones
+Brett_Leonard Eric_Bernt
+Lucas_Lowe Keith_W._Strandberg
+Matthew_Michael_Carnahan James_Ellroy Joe_Carnahan
+Sara_Parriott Josann_McGibbon
+Steven_Brill Tim_Herlihy
+Jenny_Lumet Jonathan_Demme
+Erica_Beeney Kyle_Rankin Efram_Potelle
+Guillaume_Lemans Paul_Haggis Fred_Cavayé
+Troy_Duffy Taylor_Duffy
+Nancy_Meyers
+Gary_K._Wolf Jeffrey_Price Richard_Williams Peter_S._Seaman
+C.S._Lewis Andrew_Adamson Christopher_Markus Ann_Peacock
+Hal_Ashby Robert_C._Jones Warren_Beatty Robert_Towne
+Chris_Morgan Larry_Cohen Derek_Haas J.G._Jones Michael_Brandt David_R._Ellis
+James_Flamberg Neil_LaBute
+Joe_Penhall John_Hillcoat
+Toby_Emmerich Gregory_Hoblit
+John_Patrick_Shanley
+Terry_Southern Ring_Lardner_Jr.
+Rafael_Moreu Iain_Softley
+Steve_Miner David_E._Kelley
+David_Seltzer Ridley_Scott Danilo_Bach Howard_Franklin
+Megan_Holley
+Tom_Jankiewicz John_Cusack D.V._DeVincentis George_Armitage
+Bruce_Malmuth
+Jim_Marrs Zachary_Sklar Jim_Garrison
+D.M._Marshman_Jr. Charles_Brackett Billy_Wilder
+Ernest_Tidyman Robin_Moore William_Friedkin
+Jody_Hill
+Peter_Straughan Grant_Heslov Jon_Ronson
+Emma_Thompson Jane_Austen Ang_Lee
+Joan_O'Brien Charles_Denton
+Alex_Tse Dave_Gibbons Alan_Moore Zack_Snyder
+Roland_Joffé Dominique_Lapierre
+Jay_Cocks Martin_Scorsese Steven_Zaillian James_Cameron Kenneth_Lonergan
+Bruce_Geller David_Koepp Brannon_Braga Steven_Zaillian John_Woo Robert_Towne Brian_De_Palma
+Deric_Washburn Quinn_K._Redeker
+Giacomo_Scarpelli Massimo_Troisi Michael_Radford Furio_Scarpelli Anna_Pavignano Antonio_Skármeta
+Glenn_Ficarra Terry_Zwigoff Steve_McVicker John_Requa
+Jeff_Vintar Akiva_Goldsman Alex_Proyas
+Dean_Riesner Raynold_Gideon Bruce_A._Evans John_Carpenter
+George_A._Romero
+Andrew_Niccol
+Mark_O'Keefe Steve_Oedekerk
+Werner_Herzog William_M._Finkelstein
+Didier_Kaminka Simon_Michaël James_Cameron Claude_Zidi
+Mike_Figgis
+Felix_Sutton Todd_Robinson Ridley_Scott Charles_Gieg_Jr.
+Jon_Cohen Steven_Spielberg Scott_Frank
+Danny_Wallace Nicholas_Stoller Peyton_Reed Jarrad_Paul
+Francis_Lawrence Jamie_Delano Frank_A._Cappello Garth_Ennis Kevin_Brodbin
+Stephen_Levy Tim_Metcalfe Dominic_Sena
+Henry_Selick Sam_Hamm Neil_Gaiman
+DJ_Pooh Ice_Cube Steve_Carr
+Mateo_Gil Cameron_Crowe
+Charles_Addams Barry_Sonnenfeld Larry_Wilson
+Christopher_Landon D.J._Caruso
+Adrian_Lyne Bruce_Joel_Rubin
+Bo_Goldman Ken_Kesey Lawrence_Hauben Maxwell_Anderson Dale_Wasserman Jeff_Reno Ron_Osborn Kevin_Wade Gladys_Lehman Milos_Forman
+Robert_Redford Nick_Evans Eric_Roth Richard_LaGravenese Judith_Guest Nancy_Dowd
+Chris_Weitz Melissa_Rosenberg Eric_Darnell Adam_Herz Tim_Johnson Paul_Weitz Stephenie_Meyer Todd_Alcott
+Michael_Hertzberg William_Broyles_Jr.
+Rick_Jaffa Lincoln_Child Amanda_Silver Douglas_Preston Peter_Hyams
+Irvine_Welsh John_Hodge
+Samuel_A._Peeples Gene_Roddenberry Harve_Bennett Nicholas_Meyer Jack_B._Sowards
+Edward_Bryant
+Sam_Lake John_Moore Beau_Thorne
+Frederick_Treves David_Lynch Eric_Bergren
+George_Nolfi Paul_Greengrass Robert_Ludlum Tony_Gilroy George_Clayton_Johnson Scott_Z._Burns
+W._Blake_Herron Doug_Liman Robert_Ludlum Tony_Gilroy
+Owen_Wilson Wes_Anderson
+Marty_Kaplan Jonathan_Lynn
+Ken_Kesey Lawrence_Hauben Dale_Wasserman Milos_Forman
+Anthony_Yerkovich Michael_Mann
+Shari_Springer_Berman Harvey_Pekar Joyce_Brabner Robert_Pulcini
+John_August Doug_Liman Tim_Burton Ivan_Goff Daniel_Wallace Cormac_Wibberley Marianne_Wibberley
+Harold_Ramis Rick_Moranis Peter_Tolan Dan_Aykroyd Kenneth_Lonergan
+David_Lynch Frank_Herbert Eric_Bergren
+Christopher_Crowe John_L._Balderston Daniel_Moore Paul_Perez Philip_Dunne Michael_Mann James_Fenimore_Cooper
+Donald_A._Wollheim Matthew_Robbins
+Robert_Gunter David_Mickey_Evans
+Martin_Scorsese Nicholas_Pileggi Alan_Mak Joseph_Carter Steven_Zaillian Melissa_Mathison Felix_Chong Paul_D._Zimmerman Mardik_Martin William_Monahan Peter_Savage Kenneth_Lonergan
+Joel_Soisson Douglas_Aarniokoski William_N._Panzer Eric_Bernt Gillian_Horvath Gregory_Widen
+Rudolph_Grey Tim_Burton Scott_Alexander Larry_Karaszewski
+Ernest_R._May Philip_D._Zelikow
+Terry_Zwigoff John_Requa
+William_Broyles_Jr.
+W._Peter_Iliff Rick_King
+Robert_Wise Gene_Roddenberry Edmund_H._North Harold_Livingston Harry_Bates
+Charles_MacArthur Charles_Lederer Morrie_Ryskind Howard_Hawks Ben_Hecht
+Kevin_Williamson Wes_Craven
+Nathan_Alexander Bryan_Singer
+Larry_Gross Walter_Hill Steven_E._de_Souza
+Jim_Thompson Donald_E._Westlake Sam_Peckinpah Walter_Hill Stephen_Frears
+Lawrence_Hauben Dale_Wasserman Milos_Forman
+Wladyslaw_Szpilman Roman_Polanski
+Lionel_Wigram Arthur_Conan_Doyle Simon_Kinberg Michael_Robert_Johnson Guy_Ritchie
+Brian_Taylor Mark_Neveldine
+Melissa_Rosenberg Stephenie_Meyer Catherine_Hardwicke
+Andrew_Adamson Christopher_Markus Ann_Peacock
+Raynold_Gideon Bruce_A._Evans John_Carpenter
+Barbara_Schock
+David_Gordon_Green Seth_Rogen Judd_Apatow Evan_Goldberg
+Charles_Lederer Harry_Brown Morrie_Ryskind George_Clayton_Johnson Howard_Hawks Ben_Hecht
+Mick_Jackson Lawrence_Kasdan
+Massy_Tadjedin Tom_Bleecker Marc_Rocco
+Nicholas_Pileggi
+Ronald_Roose David_Griffiths Andrew_Davis
+Choderlos_de_Laclos Roger_Kumble
+Scott_B._Smith Carter_Smith
+Paul_Lovett Stuart_Beattie Michael_B._Gordon Stephen_Sommers David_Elliot
+James_Vanderbilt John_McTiernan Andy_Diggle Sylvain_White Jock Peter_Berg
+Donald_E._Westlake Stephen_Frears
+Frank_Capra James_Hilton Sidney_Buchman Clarence_Budington_Kelland Robert_Riskin Michael_Wilson Harry_Chandlee Jo_Swerling Frances_Goodrich Albert_Hackett Philip_Van_Doren_Stern
+Jesse_Alexander Ellory_Elkayem
+Mark_Swift Wes_Craven Ronny_Yu Victor_Miller Damian_Shannon
+Jack_Geasland Norman_Snider David_Cronenberg
+Nicholas_Stoller Peyton_Reed Jarrad_Paul
+Charles_Jarrott Sandy_Glass George_Arthur_Bloom Steven_W._Carabatsos
+Mary_Orr Joseph_L._Mankiewicz
+Ellory_Elkayem
+David_J._Schow Alex_Proyas
+Steve_Levitt Oliver_Sacks
+Seth_Rogen Judd_Apatow Evan_Goldberg
+Rockne_S._O'Bannon Graham_Baker
+Fran_Walsh Edgar_Wallace Philippa_Boyens Peter_Jackson
+Jamie_Delano Frank_A._Cappello Garth_Ennis Kevin_Brodbin
+Nicole_Kassell Steven_Fechter
+Allison_Burnett
+David_McKenna Tony_Kaye Ted_Demme Nick_Cassavetes
+Todd_Robinson Ridley_Scott Charles_Gieg_Jr.
+Steve_Antin
+Ehud_Yonay Jim_Cash Warren_Skaaren
+Leslie_Charteris Phillip_Noyce Wesley_Strick
+Brendan_Hood Robert_Harmon
+Bob_Peterson Tom_McCarthy Pete_Docter
+Gene_Roddenberry Brannon_Braga Rick_Berman Harve_Bennett Jonathan_Frakes Michael_Piller David_Carson Nicholas_Meyer Harold_Livingston Jack_B._Sowards
+Howard_Sackler Carl_Gottlieb Jeannot_Szwarc
+Pierre_Bismuth Michel_Gondry Charlie_Kaufman
+Andrew_Neiderman Taylor_Hackford Tony_Gilroy Jonathan_Lemkin
+Steven_Spielberg David_Koepp George_Lucas Philip_Kaufman Jeff_Nathanson Lawrence_Kasdan Carl_Gottlieb Steven_Zaillian Robert_Rodat Scott_Frank Michael_Crichton H.G._Wells Stan_Redding Jeffrey_Boam Gloria_Katz
+Alan_Mak Felix_Chong William_Monahan
+Delbert_Mann Paddy_Chayefsky
+Vikas_Swarup Simon_Beaufoy Loveleen_Tandan
+Mark_Frost Stan_Lee Michael_France Tim_Story
+Keith_W._Strandberg
+John_Lee_Hancock
+Bruce_A._Evans John_Carpenter
+John_Mason Dennis_Shryack Mike_Gray Andrew_Davis Michael_Butler
+Clayton_Frohman Edward_Zwick
+David_Guterson
+Michel_Gondry Charlie_Kaufman
+Angus_MacPhail John_Michael_Hayes D.B._Wyndham-Lewis Alfred_Hitchcock Charles_Bennett
+D.J._Caruso Jon_Bokenkamp John_Glenn Hillary_Seitz Dan_Gilroy Michael_Pye Tony_Gayton
+John_Logan Ridley_Scott Marshall_Herskovitz Simon_Wells Benjamin_Ross William_Nicholson Edward_Zwick H.G._Wells Thomas_Lennon David_Franzoni
+Stuart_Beattie Terry_Rossio Michael_B._Gordon Stephen_Sommers Gore_Verbinski David_Elliot Ted_Elliott
+Zachary_Sklar Jim_Garrison
+John_Milius Joseph_Conrad Michael_Herr
+Kevin_Bray David_Klass Channing_Gibson David_Levien Mort_Briskin
+Antony_Hoffman Jonathan_Lemkin Chuck_Pfarrer
+Eric_Watson Darren_Aronofsky Sean_Gullette
+Matthew_Harrison Christopher_Grimm
+Simon_Beaufoy Loveleen_Tandan
+Ben_Stiller Etan_Cohen Lou_Holtz_Jr. Justin_Theroux
+Steven_Rogers James_Mangold Chris_Columbus
+Jane_Campion
+Joe_Chappelle Debra_Hill John_Carpenter Daniel_Farrands
+Vanna_Paoli Richard_Epcar Giuseppe_Tornatore
+Nick_Evans Eric_Roth Richard_LaGravenese
+John_Michael_Hayes D.B._Wyndham-Lewis Alfred_Hitchcock Cornell_Woolrich Charles_Bennett
+Pierre_Jolivet Marc_Perrier Luc_Besson Alain_Le_Henry
+Maxwell_Anderson Jeff_Reno Ron_Osborn Kevin_Wade Gladys_Lehman
+Taylor_Hackford Tony_Gilroy Jonathan_Lemkin
+Walter_Kirn Jason_Reitman Sheldon_Turner
+William_F._Nolan David_Zelag_Goodman George_Clayton_Johnson
+Michael_Roesch Uwe_Boll Peter_Scheerer Elan_Mastai
+Daniel_Waters Tim_Burton Robert_Kraft Sam_Hamm Steven_E._de_Souza Bruce_Willis Michael_Lehmann
+Steve_Beck John_Pogue
+Peter_Chiarelli Anne_Fletcher
+Michael_Powell Leo_Marks
+D.B._Wyndham-Lewis Alfred_Hitchcock Charles_Bennett
+Ron_Nyswaner Jonathan_Demme
+Mike_Nichols Calder_Willingham Buck_Henry
+Mike_Judge Joe_Stillman Yvette_Kaplan
+Abby_Kohn Liz_Tuccillo Greg_Behrendt
+Nina_Wilcox_Putnam Lloyd_Fonvielle John_L._Balderston Stephen_Sommers Kevin_Jarre Richard_Schayer
+Liz_Tuccillo Greg_Behrendt
+Jon_Favreau Doug_Liman
+Doug_Liman Robert_Ludlum Tony_Gilroy John-Henry_Butterworth Joseph_Wilson
+Uma_Thurman
+Jonathan_Hales George_Lucas
+Brent_Maddock Barry_Sonnenfeld Jeffrey_Price Peter_S._Seaman John_Thomas S.S._Wilson
+Sam_Raimi David_Koepp Ethan_Coen Stan_Lee Ivan_Raimi Scott_Spiegel Daniel_Goldin Chuck_Pfarrer Steve_Ditko
+Stanley_Donen Marc_Behm Peter_Stone
+Tim_Burton Scott_Alexander Sam_Hamm Daniel_Wallace Larry_Karaszewski Andrew_Kevin_Walker Warren_Skaaren
+David_Madsen Ann_Biderman
+Jason_Filardi Burr_Steers
+George_Roy_Hill David_S._Ward
+Frank_Darabont Michael_Sloane Mary_Shelley Stephen_King Steph_Lady
+Robert_Rossen
+George_P._Cosmatos David_Webb_Peoples Kevin_Jarre James_Cameron Sylvester_Stallone
+Sean_Penn Jon_Krakauer
+Wes_Craven Ronny_Yu Victor_Miller Damian_Shannon Michael_De_Luca
+Callie_Khouri Ridley_Scott
+Laura_Ziskin Frank_Oz Tom_Schulman
+Stephen_Mazur
+Gary_Whitta Albert_Hughes Allen_Hughes
+Daphne_Du_Maurier Alfred_Hitchcock Evan_Hunter
+Dennis_Shryack Mike_Gray Andrew_Davis Michael_Butler
+Massimo_Troisi Michael_Radford Furio_Scarpelli Anna_Pavignano Antonio_Skármeta
+Sam_Peckinpah Walon_Green Walter_Hill Roy_N._Sickner
+Judd_Apatow Evan_Goldberg
+Sue_Miller Pat_O'Connor
+Joel_Schumacher Larry_Cohen Andrew_Kevin_Walker
+Dan_Brown David_Koepp Akiva_Goldsman Ron_Howard
+Edgar_Wallace Philippa_Boyens Peter_Jackson
+Kuo_Jung_Tsai James_Schamus Hui-Ling_Wang Ang_Lee
+Skip_Woods Gavin_Hood David_Benioff Dominic_Sena
+Robert_Bloch Alfred_Hitchcock Joseph_Stefano
+David_Koepp George_Lucas Philip_Kaufman Jeff_Nathanson Stan_Lee Steven_Zaillian Michael_Crichton Akiva_Goldsman H.G._Wells Robert_Towne Brian_De_Palma David_Fincher Ron_Howard Steve_Ditko Richard_Matheson
+Francine_McDougall
+Randall_Rubin
+Adam_Small John_Whitesell Nick_Swardson Fax_Bahr Jamie_Kennedy
+Rose_Bosch Ridley_Scott
+Robert_Benton Avery_Corman Robert_Towne
+Guillaume_Laurant Jean-Pierre_Jeunet
+Rospo_Pallenberg
+Larry_Cohen David_R._Ellis
+Terry_Rossio Gore_Verbinski Ted_Elliott Roland_Emmerich
+Caspian_Tredwell-Owen Michael_Bay Alex_Kurtzman
+Ken_Wheat David_Twohy Jim_Wheat
+George_Lucas Philip_Kaufman Irvin_Kershner Jeff_Nathanson Lawrence_Kasdan Bob_Dolman Leigh_Brackett Richard_Marquand Jeffrey_Boam Ron_Howard Gloria_Katz
+Nicholas_Sparks Adam_Shankman Karen_Janszen
+Ethan_Coen Robert_Ramsey Homer John_Romano William_Rose
+George_Axelrod Richard_Condon
+Philip_Kaufman Jeff_Nathanson Lawrence_Kasdan Jeffrey_Boam
+Jon_Bokenkamp Michael_Pye
+David_Klass Channing_Gibson David_Levien Mort_Briskin
+Agnieszka_Wojtowicz-Vosloo Paul_Vosloo
+David_S._Ward Jeff_Arch
+Paul_Greengrass Robert_Ludlum Tony_Gilroy Scott_Z._Burns
+Tony_Kaye
+John_Hodge Alex_Garland
+Robert_C._Jones
+James_Gunn
+Joe_Eszterhas Paul_Verhoeven
+Paul_McGuigan Gilles_Mimouni Brandon_Boyce
+Barry_Sonnenfeld Lowell_Cunningham Ed_Solomon Larry_Wilson Jeffrey_Price Peter_S._Seaman John_Thomas S.S._Wilson
+Ring_Lardner_Jr.
+David_Veloz Richard_Rutowski
+Sung-ho_Kim Grégory_Levasseur
+Vladimir_Moiseenko Nikita_Mikhalkov Aleksandr_Novototskiy-Vlasov
+H.C._Potter Melvin_Frank Eric_Hodgins Norman_Panama
+Adam_Shankman Robert_Ben_Garant Thomas_Lennon Karen_Janszen
+Irvin_Kershner Lawrence_Kasdan Leigh_Brackett
+James_Hilton Sidney_Buchman Robert_Riskin
+Lowell_Ganz Émile_Gaudreault Ron_Howard
+Ann_Biderman Michael_Mann Ronan_Bennett
+Billy_Ray Zak_Penn E._Elias_Merhige
+Jeff_Nathanson Stan_Redding Ross_LaManna
+James_Schamus Rick_Moody Hui-Ling_Wang Ang_Lee
+Stanley_Kubrick Diane_Johnson Stephen_King William_Makepeace_Thackeray
+Gabriel_Axel Karen_Blixen
+Guinevere_Turner Bret_Easton_Ellis Mary_Harron
+Robert_Crais Florent-Emilio_Siri Doug_Richardson
+Wolfgang_Petersen
+Stephen_Norrington
+Gregory_Hoblit Daniel_Pyne
+Karen_McCullah Kirsten_Smith Gil_Junger
+Nelson_Shin Baik_Seung_Kyun Kôzô_Morishita Margaret_Nichols Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+Jonathan_Mostow
+Sean_S._Cunningham Ron_Kurz Victor_Miller
+Lem_Dobbs
+David_Weissman
+Karen_Blixen
+Etan_Cohen Justin_Theroux
+Lawrence_Kasdan Leigh_Brackett Richard_Marquand
+Stan_Lee Michael_France Tim_Story Steve_Ditko
+Earl_Mac_Rauch
+Carter_Smith
+Dale_Wasserman Milos_Forman
+Lloyd_Fonvielle John_L._Balderston Stephen_Sommers Kevin_Jarre Richard_Schayer
+Douglas_Aarniokoski William_N._Panzer Eric_Bernt Gillian_Horvath Gregory_Widen
+Jason_Reitman Sheldon_Turner
+André_P._Brink Colin_Welland Euzhan_Palcy
+Roman_Polanski Robert_Towne
+Paul_Vosloo
+John_L._Balderston Daniel_Moore Stephen_Sommers Paul_Perez Kevin_Jarre Philip_Dunne Michael_Mann James_Fenimore_Cooper Richard_Schayer
+Troy_Kennedy-Martin F._Gary_Gray Donna_Powers Wayne_Powers
+Michael_Ondaatje
+David_Mamet Larry_Beinhart Barry_Levinson Jay_Presson_Allen
+Peyton_Reed Jarrad_Paul
+Ted_Tally Thomas_Harris Jonathan_Demme
+Derek_Haas J.G._Jones Michael_Brandt
+Renny_Harlin John_Long Michael_France Sylvester_Stallone Shane_Black
+Chad_Hayes Steve_Lieber Greg_Rucka Erich_Hoeber Carey_W._Hayes Dominic_Sena Jon_Hoeber
+Ernest_Lehman Alexander_Mackendrick Clifford_Odets
+James_McTeigue J._Michael_Straczynski Matthew_Sand Lilly_Wachowski Lana_Wachowski
+John_Whitesell Nick_Swardson Fax_Bahr Jamie_Kennedy
+Michael_Radford Furio_Scarpelli Anna_Pavignano Antonio_Skármeta
+C.D._Payne Miguel_Arteta
+David_Loughery Alexandre_Dumas
+Ivan_Raimi Daniel_Goldin Chuck_Pfarrer
+Alexander_Payne Michael_Crichton Tom_Perrotta Jim_Taylor Joe_Johnston
+Alec_Sokolow Joss_Whedon Joe_Ranft Pete_Docter John_Lasseter Joel_Cohen Andrew_Stanton
+John_McTiernan Roderick_Thorp Steven_E._de_Souza John_Thomas
+Bryan_Spicer John_Kamps Arne_Olsen
+Matt_Manfredi Louis_Leterrier Phil_Hay Beverley_Cross Travis_Beacham
+Kim_Barker Phil_Traill
+Michael_B._Gordon Stephen_Sommers David_Elliot
+J._Mackye_Gruber Jeffrey_Reddick David_R._Ellis
+Peter_Schink Scott_Stewart
+Mark_Mylod Collin_Friesen
+Calder_Willingham Buck_Henry
+Scott_Yagemann Kevin_Reynolds
+Robert_Ludlum Tony_Gilroy Scott_Z._Burns
+Walon_Green Roy_N._Sickner
+Bob_Dolman Ron_Howard
+Joss_Whedon Joe_Ranft Jean-Pierre_Jeunet Pete_Docter John_Lasseter Joel_Cohen Andrew_Stanton Dan_O'Bannon
+Gavin_Hood David_Benioff
+Brian_Helgeland James_Ellroy Curtis_Hanson Richard_Donner Lilly_Wachowski A.J._Quinnell Lana_Wachowski
+Andy_Diggle Sylvain_White Jock Peter_Berg
+Uwe_Boll Peter_Scheerer Elan_Mastai
+Harvey_Pekar Joyce_Brabner Robert_Pulcini
+Louis_Leterrier Phil_Hay Beverley_Cross Travis_Beacham
+Ridley_Scott Charles_Gieg_Jr. Danilo_Bach Steven_Zaillian William_Nicholson David_Webb_Peoples David_Twohy Danielle_Alexandra Howard_Franklin Warren_Lewis David_Franzoni
+Richard_Condon
+Warren_Beatty Robert_Towne
+Steve_Lieber Greg_Rucka Erich_Hoeber Carey_W._Hayes Dominic_Sena Jon_Hoeber
+Thomas_Carter Cheryl_Edwards
+Anna_Boden
+Frank_Oz Tom_Schulman
+Robert_Harmon
+Jon_Hurwitz Danny_Leiner Hayden_Schlossberg
+H.B._Halicki Scott_Rosenberg Dominic_Sena
+Gilles_Mimouni Brandon_Boyce
+Frank_Herbert
+Marshall_Herskovitz Edward_Zwick
+William_N._Panzer Eric_Bernt Gillian_Horvath Gregory_Widen
+Iain_Softley
+Christian_Duguay Dan_Gordon
+Phillip_Noyce Wesley_Strick
+Phil_Traill
+Ethan_Reiff John_Stevenson Chris_Poche Jonathan_Aibel Cyrus_Voris
+Jeff_Reno Ron_Osborn Kevin_Wade Gladys_Lehman
+Brannon_Braga Rick_Berman Jonathan_Frakes John_Woo David_Carson Robert_Towne
+David_Weisberg Michael_Bay Douglas_Cook Mark_Rosner
+Tony_Randel Peter_Atkins
+Armando_Iannucci Jesse_Armstrong Tony_Roche Simon_Blackwell Ian_Martin
+Ted_Demme Robert_Ramsey Nick_Cassavetes
+J._Michael_Straczynski Matthew_Sand
+Bob_Rafelson
+Martin_Curland
+Alexander_Mackendrick Clifford_Odets
+Collin_Friesen
+Simon_West Jake_Wade_Wall Steve_Feke Fred_Walton
+Sandy_Glass George_Arthur_Bloom Steven_W._Carabatsos
+Dominique_Lapierre
+Chuck_Barris Charlie_Kaufman George_Clooney
+Dave_Johannson Nick_Schenk
+Charlie_Kaufman Spike_Jonze George_Clooney Susan_Orlean
+Neil_Cuthbert Bob_Burden
+Joe_Ranft Pete_Docter John_Lasseter Joel_Cohen Andrew_Stanton
+George_Arthur_Bloom Steven_W._Carabatsos
+Daniel_Moore Paul_Perez Philip_Dunne Michael_Mann James_Fenimore_Cooper
+Richard_Attenborough
+Darren_Aronofsky Sean_Gullette Robert_Siegel
+Robert_Kraft Steven_E._de_Souza Bruce_Willis Michael_Lehmann
+David_Griffiths Andrew_Davis
+Tim_Herlihy
+Billy_Bob_Thornton
+Scott_Alexander Larry_Karaszewski Milos_Forman
+Lawrence_Wright Edward_Zwick
+Alex_Garland
+Baz_Luhrmann Craig_Pearce
+Joseph_D._Pistone Mike_Newell
+Tony_Gilroy Scott_Z._Burns Jonathan_Lemkin
+Peter_Atkins
+Jaume_Collet-Serra David_Leslie_Johnson-McGoldrick Alex_Mace
+David_E._Lewis Alan_J._Pakula Andy_Lewis
+John_Waters
+Larry_Clark Harmony_Korine
+Walter_Reisch Ernst_Lubitsch Charles_Brackett Billy_Wilder
+Baik_Seung_Kyun Kôzô_Morishita Margaret_Nichols Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+Kôzô_Morishita Margaret_Nichols Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+John_Brancato Michael_Ferris David_Fincher
+Joyce_Brabner Robert_Pulcini
+Alan_Le_May
+Eric_Darnell Tim_Johnson Paul_Weitz Todd_Alcott
+Graham_Baker
+Carl_Gottlieb Jeannot_Szwarc
+Richard_Kelly
+Edmund_H._North Harry_Bates
+James_Mangold Patrick_O'Neill
+Alfred_Hitchcock Patricia_Highsmith Raymond_Chandler Joseph_Stefano Whitfield_Cook Cornell_Woolrich Charles_Bennett Ben_Hecht Evan_Hunter
+David_Leslie_Johnson-McGoldrick Alex_Mace
+Sidney_Buchman Robert_Riskin
+Douglas_Adams Karey_Kirkpatrick Garth_Jennings
+Steven_Lisberger Bonnie_MacBird Charles_S._Haas
+Adam_Herz Paul_Weitz
+Melvin_Frank Michael_Curtiz Eric_Hodgins Norman_Panama
+Margaret_Nichols Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+Charles_Randolph
+Michael_Rymer Michael_Petroni Anne_Rice
+Jeremy_Brock
+Christopher_Bram
+John_Bowe Michael_Holman Lech_Majewski Julian_Schnabel
+Michael_Cuesta Anthony_Cipriano
+Rick_Moranis Dan_Aykroyd
+Simon_Moore Stephen_Gaghan
+John_Kamps Arne_Olsen
+Harry_Brown George_Clayton_Johnson
+James_Ellroy Curtis_Hanson Joe_Carnahan Brian_De_Palma
+Colin_Welland Euzhan_Palcy
+Lou_Holtz_Jr.
+Roderick_Thorp Steven_E._de_Souza
+Evan_Goldberg
+Richard_Rutowski
+Herman_J._Mankiewicz John_Houseman Mollie_Kent
+Jeremy_Drysdale David_Caffrey
+Charles_Gieg_Jr.
+Dan_Futterman Gerald_Clarke Bennett_Miller
+Walter_Hill Steven_E._de_Souza James_Cameron Vincent_Ward Dan_O'Bannon David_Giler David_Fincher
+Tim_Johnson Paul_Weitz Todd_Alcott
+Penny_Marshall Oliver_Sacks Steven_Zaillian Anne_Spielberg Gary_Ross
+Jan_de_Bont Shirley_Jackson
+Joseph_Carter Mardik_Martin Peter_Savage
+Michael_H._Weber Scott_Neustadter Marc_Webb
+Thomas_Harris Michael_Mann Jonathan_Demme
+Norman_A._Fox D.D._Beauchamp Nathan_Juran
+Franklin_J._Schaffner John_T._Kelley Pierre_Boulle Michael_Wilson
+Robert_Altman Joan_Tewkesbury
+Sebastian_Gutierrez
+F._Gary_Gray Donna_Powers Wayne_Powers
+John_Long Michael_France Sylvester_Stallone
+Joseph_Conrad Michael_Herr
+Bobby_Farrelly Bennett_Yellin Peter_Farrelly
+Paul_Bernbaum Lee_Tamahori
+Sean_Gullette
+Robert_Pulcini
+Karey_Kirkpatrick Garth_Jennings
+Rick_Berman Jonathan_Frakes Michael_Piller David_Carson
+Tom_Schulman
+Michael_Hirst William_Nicholson Shekhar_Kapur
+Bruce_Feirstein Ian_Fleming
+Gerald_Clarke Bennett_Miller
+Bruce_Graham Don_Bluth
+John_Glenn Hillary_Seitz
+Chuck_Jones Joe_Dante Chris_Columbus Charles_S._Haas
+Leslie_Waller Frank_Pierson
+Robert_Getchell Michael_Caton-Jones Tobias_Wolff
+Peter_Scheerer Elan_Mastai
+Phil_Hay Beverley_Cross Travis_Beacham
+Philippa_Boyens Peter_Jackson
+Scott_Spiegel
+Masahiko_Ôkura Masao_Itô Norm_McCabe Bob_Matz
+Beverley_Cross Travis_Beacham
+Alex_Haley Arnold_Perl
+J.G._Jones Michael_Brandt
+Ernst_Lubitsch Charles_Brackett Billy_Wilder
+Clarence_Budington_Kelland Robert_Riskin
+Roy_N._Sickner
+Ron_Osborn Kevin_Wade Gladys_Lehman
+Nick_Hornby Lone_Scherfig Stephen_Frears John_Cusack Lynn_Barber D.V._DeVincentis Scott_Rosenberg
+Michael_Holman Lech_Majewski Julian_Schnabel
+Robert_Ramsey John_Romano
+Cameron_Crowe Amy_Heckerling
+Shawn_Levy Josh_Klausner
+Furio_Scarpelli Anna_Pavignano Antonio_Skármeta
+Bret_Easton_Ellis Mary_Harron
+Avery_Corman
+Sarah_Kernochan
+Oliver_Sacks Steven_Zaillian
+Sylvain_White Jock Peter_Berg
+Jim_Garrison
+Tom_Bleecker Marc_Rocco
+Spike_Jonze Maurice_Sendak Susan_Orlean
+Robert_Riskin Harry_Chandlee Jo_Swerling
+Quinn_K._Redeker
+D.D._Beauchamp Nathan_Juran
+Michael_Caton-Jones Tobias_Wolff
+Lech_Majewski Julian_Schnabel
+Lincoln_Child Amanda_Silver Douglas_Preston Peter_Hyams
+John_T._Kelley Pierre_Boulle Michael_Wilson
+Harve_Bennett Nicholas_Meyer Jack_B._Sowards
+Danilo_Bach Howard_Franklin
+Michael_Ferris David_Fincher
+Jake_Wade_Wall Steve_Feke Fred_Walton
+Uli_Edel Brad_Mirman
+Philip_Eisner Paul_W.S._Anderson
+Stephen_Sommers David_Elliot Kevin_Jarre Richard_Schayer
+Arne_Olsen
+Marc_Perrier Luc_Besson Alain_Le_Henry
+Bennett_Miller
+Elmore_Leonard Scott_Frank
+Rick_Moody Ang_Lee
+Shirley_Jackson
+Miguel_Arteta
+Michael_Brandt
+Brandon_Boyce Bryan_Singer Stephen_King
+Buck_Henry
+Del_Frazier Harold_Medford
+Bonnie_MacBird Charles_S._Haas
+Taylor_Duffy
+Frank_A._Cappello Garth_Ennis Kevin_Brodbin
+Pierre_Boulle Michael_Wilson
+Greg_Behrendt
+Jean-Pierre_Jeunet Dan_O'Bannon
+John_C._Champion Hall_Bartlett David_Zucker Jerry_Zucker Arthur_Hailey
+Erik_Skjoldbjærg Hillary_Seitz Christopher_Nolan
+Robin_Driscoll Rowan_Atkinson
+Marie_Brenner Eric_Roth Michael_Mann
+Delia_Ephron
+Lowell_Cunningham Ed_Solomon
+Tom_McCarthy Pete_Docter
+Simon_Michaël James_Cameron Claude_Zidi
+Eric_Roth Richard_LaGravenese Robin_Swicord Winston_Groom F._Scott_Fitzgerald Michael_Mann David_Fincher
+Don_Roos Scott_Frank
+Ed_Solomon
+Steven_Fechter
+Michael_France Tim_Story Sylvester_Stallone
+Bryan_Singer Tom_DeSanto Stephen_King
+Curtis_Hanson Steve_Kloves Michael_Chabon
+Carl_Franklin Walter_Mosley
+David_Zelag_Goodman George_Clayton_Johnson
+Ian_Fleming
+Steven_Zaillian Robert_Towne Brian_De_Palma Kenneth_Lonergan
+Greg_Rucka Erich_Hoeber Carey_W._Hayes Dominic_Sena Jon_Hoeber
+Nick_Cassavetes James_Kearns
+Wayne_Kramer Frank_Hannah
+John_Stevenson Chris_Poche Jonathan_Aibel Cyrus_Voris
+Bruce_Robinson
+Paul_Weitz Todd_Alcott
+Michael_Bay Michael_Barrie Douglas_Cook Mark_Rosner George_Gallo Jim_Mulholland Randall_Wallace Alex_Kurtzman Doug_Richardson
+Frank_Hannah
+Woody_Allen Marshall_Brickman
+Jeff_Arch
+Jesse_Armstrong Tony_Roche Simon_Blackwell Ian_Martin
+Kurt_Russell Nick_Castle Debra_Hill John_Carpenter
+Leo_Marks
+Lone_Scherfig Lynn_Barber
+Ronny_Yu Victor_Miller Damian_Shannon
+Philip_D._Zelikow
+Marc_Norman
+Ice_Cube Steve_Carr
+Hall_Bartlett David_Zucker Jerry_Zucker Arthur_Hailey
+Marc_Rocco
+Richard_LaGravenese Toni_Morrison Jonathan_Demme Akosua_Busia
+Brent_Simons Alan_Schoolcraft Tom_McGrath
+Robert_Ben_Garant Thomas_Lennon
+Robbie_Fox
+Michael_Wilson Jo_Swerling Frances_Goodrich Albert_Hackett Philip_Van_Doren_Stern
+Kyle_Rankin Efram_Potelle
+Tony_Roche Simon_Blackwell Ian_Martin
+Michael_Sloane
+Charles_Burnett
+Norman_Snider David_Cronenberg
+Michael_Cristofer Tom_Wolfe Brian_De_Palma
+Neal_Israel Bob_Israel
+John_Pielmeier
+Courtney_Hunt
+David_Marconi
+Hillary_Seitz Christopher_Nolan
+Michael_Curtiz Norman_Panama
+Michael_Hoffman
+Jonathan_Frakes Michael_Piller
+Robin_Swicord F._Scott_Fitzgerald David_Fincher
+Joe_Carnahan
+Morrie_Ryskind Howard_Hawks Ben_Hecht
+Scott_Moore Jon_Lucas
+David_Zucker Jerry_Zucker Arthur_Hailey
+Grant_Heslov Jon_Ronson
+Gillo_Pontecorvo Franco_Solinas
+Erich_Hoeber Carey_W._Hayes Dominic_Sena Jon_Hoeber
+Stephen_Gaghan
+Simon_Wells H.G._Wells
+Jeannot_Szwarc
+Bernhard_Schlink David_Hare
+Melissa_Mathison
+Dan_Gordon
+Roy_Huggins David_Twohy Andrew_Davis
+Joel_Hopkins
+David_Cronenberg Steven_Knight
+Pete_Docter John_Lasseter Joel_Cohen Jim_Reardon Andrew_Stanton
+Benjamin_Ross Thomas_Lennon
+Kevin_Wade Gladys_Lehman
+John_Woo Michael_Colleary Graham_Yost Mike_Werb Robert_Towne
+Tod_Davies Hunter_S._Thompson Terry_Gilliam
+Stephen_Frears John_Cusack D.V._DeVincentis Scott_Rosenberg
+Larry_Wilson
+Millard_Kaufman Howard_Breslin Don_McGuire
+Nick_Schenk
+Steven_W._Carabatsos
+Geoffrey_Wright
+Scott_Neustadter Marc_Webb
+Gary_Scott_Thompson Paul_Verhoeven
+John_Houseman Mollie_Kent
+Pamela_Wallace Earl_W._Wallace William_Kelley
+Joan_Tewkesbury
+Harry_Chandlee Jo_Swerling
+Sam_Hamm Warren_Skaaren
+Florent-Emilio_Siri Doug_Richardson
+Jo_Swerling Frances_Goodrich Albert_Hackett Philip_Van_Doren_Stern
+Jim_Sharman Richard_O'Brien
+Clifford_Odets
+Lowell_Cannon Graham_Yost Brian_De_Palma John_Thomas
 Homer
-Charles Frazier
-Nick Castle Debra Hill John Carpenter
-Michael Colleary Mike Werb
-Bruce Joel Rubin Jerry Zucker
-Vince Gilligan Vy Vincent Ngo Peter Berg
-Russell Mulcahy Peter Bellwood Gregory Widen
-Zdenek Mahler Milos Forman
-Charles Brackett Billy Wilder
-Dave Gibbons Alan Moore Zack Snyder
-Marshall Brickman
-Florian Henckel von Donnersmarck Jérôme Salle Julian Fellowes
-Nikita Mikhalkov Aleksandr Novototskiy-Vlasov
-Kevin Costner Michael Blake
-Steven E. de Souza Bruce Willis Michael Lehmann
-Rich Wilkes
-Tom Butterworth
-Marc Behm Peter Stone
-Mike Gray Andrew Davis Michael Butler
-Adam Resnick
-Neil LaBute
-John Lasseter Joel Cohen Andrew Stanton
-Tatsuo Yoshida Lilly Wachowski Lana Wachowski
-William Nicholson David Franzoni Shekhar Kapur
-Tom Wolfe Brian De Palma
-Matthew Robbins Hal Barwood
-Chip Johannessen Bharat Nalluri
-John Hillcoat
-Franco Solinas
-Eric Bernt Gillian Horvath Gregory Widen
-David Mickey Evans
-Eric Hodgins Norman Panama
-Jérôme Salle Julian Fellowes
-John-Henry Butterworth Joseph Wilson
-A.E.W. Mason J. Searle Dawley
-Gore Verbinski Ted Elliott
-David Webb Peoples Paul W.S. Anderson
-Robert Rodat Roland Emmerich
-J.F. Lawton
-Patricia Highsmith Raymond Chandler Whitfield Cook Ben Hecht
-Jock Peter Berg
-Garth Ennis Kevin Brodbin
-Nick Swardson Fax Bahr Jamie Kennedy
-Raymond Chandler Whitfield Cook Billy Wilder Ben Hecht
-Michael Piller
-Amanda Silver Douglas Preston Peter Hyams
-Paul Perez Philip Dunne Michael Mann James Fenimore Cooper
-Winston Groom
-Paul Thomas Anderson
-Aaron Seltzer
-Anthony Cipriano
-George Clayton Johnson
-David Benioff
-Masao Itô Norm McCabe Bob Matz
-Howard Breslin Don McGuire
-Kenny Ortega
-Harmony Korine
-Cheryl Edwards
-Daniel Goldin Chuck Pfarrer
-Richard Epcar Giuseppe Tornatore
-Garth Jennings
-Neil Jordan Anne Rice
-Matthew Sand
-Jeffrey Price Richard Williams Peter S. Seaman John Thomas S.S. Wilson
-Mark Neveldine
-Scott Frank
-Diane Johnson Stephen King
-Roger Michell
-Kevin Reynolds John Watson
-Christopher Grimm
-Jarrad Paul
-David Baldacci William Goldman
-Michael Barrie George Gallo Jim Mulholland Doug Richardson
-Joseph Wilson
-Richard Yates Sam Mendes Justin Haythe
-Norm McCabe Bob Matz
-F. Scott Fitzgerald David Fincher
-Steve Carr
-Robin Moore William Friedkin
-Norman Panama
-Dan Gilroy
-Kevin Eastman Kevin Munroe
-Alan Schoolcraft Tom McGrath
-Alan Cumming Jennifer Jason Leigh
-Ron Shelton John Norville Al Stump
-Burr Steers
-Pat O'Connor
-Bruce Willis Michael Lehmann
-Kevin Brodbin
-James Gray
-Sean Ellis
-Graham Yost Brian De Palma John Thomas
-Steve Oedekerk
-Alan J. Pakula Andy Lewis
-Mike Myers Jay Roach
-David E. Kelley
-Christopher Nolan Jonathan Nolan
-Julian Schnabel
-Richard O'Brien
-Michael Crichton Jim Taylor Joe Johnston Barry Levinson Stephen Hauser
-Toni Morrison Jonathan Demme Akosua Busia
-Jon Lucas
-Josann McGibbon
-Joseph Stefano
-Michael Ritchie Phil Alden Robinson
-Whitfield Cook Ben Hecht
-Michael Patrick Jann Lona Williams
-Simon Blackwell Ian Martin
-Michael Pye
-Kent Alterman
-John Haase Barbara Turner Richard Lester
-Bobby Moresco Paul Haggis
-Steve McVicker John Requa
-Geoffrey Fletcher Lee Daniels
-Leigh Brackett
-Douglas Cook Mark Rosner
-Lona Williams
-Joe Stillman Yvette Kaplan
-Ron Kurz Victor Miller
-Tom Perrotta Jim Taylor
-Billy Wilder Arthur Conan Doyle
-Arthur Conan Doyle Simon Kinberg Michael Robert Johnson Guy Ritchie
-Todd Solondz
-Henry Bean Bill Duke
-Edward Zwick
-Stephenie Meyer Catherine Hardwicke
-Tim Story
-David Elliot
-Roger Hedden Michael Steinberg
-Mark Rosner
-Tom DeSanto
-Roger Kumble
-Michael Lehmann
-Steven Knight
-Jim Cash Warren Skaaren
-Mike Werb Chuck Russell Michael Fallon
-Vy Vincent Ngo Peter Berg
-Jon Krakauer
-Sam Mendes Justin Haythe Alan Ball
-Michael Petroni Anne Rice
-David Twohy Danielle Alexandra Andrew Davis Jim Wheat
-Hui-Ling Wang Ang Lee
-Irwin Allen Akiva Goldsman Stephen Hopkins
-Kevin Jarre James Cameron Richard Schayer Sylvester Stallone
-Danielle Alexandra
-Judith Guest Nancy Dowd
-Kevin Munroe
-Anne Rice
-Justin Theroux
-Anne Spielberg Gary Ross
-Hunter S. Thompson Terry Gilliam
-Jim Taylor Joe Johnston
-Mary Shelley Steph Lady
-Carey W. Hayes Dominic Sena Jon Hoeber
-Alan Moore Zack Snyder
-Albert Hughes Allen Hughes
-Tim Pope
-Andrew Davis Michael Butler Steven Pressfield
-Matthew Robinson Ricky Gervais
-Mary Lambert Stephen King
-Frances Goodrich Albert Hackett Philip Van Doren Stern
-Jane Austen Ang Lee
-Jim Kouf Ross LaManna
-John Cusack D.V. DeVincentis Scott Rosenberg George Armitage
-John Romano
-Lee Daniels
-William M. Finkelstein
-Jonathan Kesselman
-Peter Stone
-Nathan Juran
-Anna Pavignano Antonio Skármeta
-Victor Miller James Isaac Rob Hedden Damian Shannon
-P.J. Hogan
-John Irving Lasse Hallström
-Barbara Turner Richard Lester
-Larry Beinhart Barry Levinson
-Peter Bellwood Gregory Widen
-James Cameron Claude Zidi Dan O'Bannon Gale Anne Hurd David Giler Sylvester Stallone William Wisher
-Gladys Lehman
-Josh Klausner
-Randall Jahnson
-Philip Dunne Michael Mann James Fenimore Cooper
-Ivan Goff Cormac Wibberley Marianne Wibberley
-Joel Cohen Andrew Stanton
-Jay Roach
-John Pogue
-Jonathan Lynn
-Gillian Horvath Gregory Widen
-Justin Haythe
-Earl W. Wallace William Kelley
-Akiva Goldsman Ron Howard Stephen Hopkins Alex Proyas
-Wes Anderson
-Michael Walker
-Jim Reardon Andrew Stanton
-Claude Zidi
-Debra Hill John Carpenter Daniel Farrands
-Bill Duke
-Mark Andrus James L. Brooks
-H.G. Wells
-Jim Wheat
-Stan Redding
-Michael Blake
-Elan Mastai
-George Gallo Jim Mulholland Doug Richardson
-Rowan Atkinson
-Eric Bergren
-Cornell Woolrich
-Aaron Sorkin Rob Reiner
-Keir Pearson
-Alan Ball
-Daniel Wallace
-William Rose
-Bob Burden
-Lasse Hallström
-Michael Butler
-Felix Chong William Monahan
-István Szabó
-Euzhan Palcy
-Wesley Strick
-John Requa
-Michael Mann Ronan Bennett James Fenimore Cooper
-Hal Barwood
-Loveleen Tandan
-Rob Reiner William Goldman
-Tom McGrath
-Ross LaManna
-Bennett Yellin Peter Farrelly
-Mel Gibson Randall Wallace
-Channing Gibson David Levien Mort Briskin
-Andrew Stanton
-Luc Besson Robert Mark Kamen Alain Le Henry
-Chuck Russell Michael Fallon
-Bob Israel
-Richard Donner Lilly Wachowski Lana Wachowski
-Bill Kelly
-Travis Beacham
-Stephen King Daniel Attias
-Danny Leiner Hayden Schlossberg
-Tarsem Singh
-Ang Lee
-Zak Penn E. Elias Merhige
-Gary Ross
-Brad Mirman
-Paul W.S. Anderson Dan O'Bannon John Thomas
-Thomas Lennon
-James L. Brooks
-Jeffrey Reddick Glen Morgan David R. Ellis
-William Kelley
-Steve Kloves Michael Chabon
-Peter Tolan Kenneth Lonergan
-Simon Kinberg Michael Robert Johnson Guy Ritchie
-Ted Lewis
-Stanislaw Lem
-David Carson
-Gus Van Sant Tom Robbins Ben Affleck Matt Damon
-Joseph Sargent Margaret Nagle
-John Carpenter Dan O'Bannon Daniel Farrands John W. Campbell Jr.
-Charles Bennett
-Charles Denton
-Bharat Nalluri
-Paul Verhoeven Dan O'Bannon Robert A. Heinlein
-John G. Avildsen Robert Mark Kamen Sylvester Stallone
-John Moore Beau Thorne
-Jim Mulholland Doug Richardson
-Howard Franklin
-Ronan Bennett
-Antonio Skármeta
-Nicholas Meyer Jack B. Sowards
-Mollie Kent
-Lynn Barber
-Neal Marshall Stevens Rick Bota
-Phil Alden Robinson
-Gina Prince-Bythewood
-Joe Dante Chris Columbus Charles S. Haas
-Allen Hughes
-Jonathan Demme Akosua Busia
-Ian Martin
-Harold Livingston
-George Clooney
-Alejandro G. Iñárritu
-Laurice Elehwany
-Gene Colan
-Harry Bates
-John Landis
-David Caffrey
-Robert Towne Brian De Palma
-John Watson
-Rick Bota
-Émile Gaudreault Ron Howard
-Jerry Zucker Arthur Hailey
-Hayden Schlossberg
-Jim Carrey
-Cormac Wibberley Marianne Wibberley
-Charles McKeown Charles Alverson Terry Gilliam
-Robert Mark Kamen
-Steven Pressfield
-D.V. DeVincentis Scott Rosenberg George Armitage
-Scott Rosenberg Dominic Sena
-James Fenimore Cooper
-Zack Snyder
-Jim Uhls David Fincher Chuck Palahniuk
-Charles Alverson Terry Gilliam
-Don Bluth
-Paul Haggis Fred Cavayé
-Howard Hawks Armitage Trail Brian De Palma Ben Hecht
-Chris Poche Jonathan Aibel Cyrus Voris
-Paddy Chayefsky
-Douglas Preston Peter Hyams
-Efram Potelle
-Christopher Markus Ann Peacock
-John Hughes
-J. Searle Dawley
-Joe Johnston
-Vincent Ward Dan O'Bannon David Giler David Fincher
-Daniel Attias
-Barry Levinson Stephen Hauser
-Steph Lady
-John Norville
-Craig Brewer
-Julian Fellowes
-E. Elias Merhige
-Tim Metcalfe Dominic Sena
-Arnold Perl
-Tom Robbins
-Lilly Wachowski Lana Wachowski
-Daniel Pyne
-Mary Harron
-Luis Mandoki
-Paul D. Zimmerman
-Randall Wallace Alexandre Dumas
-Anne Fletcher
-Vince McKewin Howard Deutch
-Arthur Hailey
-Don McGuire
-Michael Fallon
-Jonathan Aibel Cyrus Voris
-Ann Peacock
-Atom Egoyan
-Dan O'Bannon David Giler John Thomas David Fincher
-James Isaac
-David O. Russell John Ridley
-Michael Steinberg
-Larry Karaszewski Milos Forman
-Jonathan Nolan
-Gale Anne Hurd William Wisher
-Andrew Kevin Walker David Fincher
-Kirsten Smith Gil Junger
-Maurice Sendak
-Peter Jackson
-Michael Herr
-Dan Aykroyd
-Hal Hartley
-Ricky Gervais
-Al Stump
-Mike Mignola Peter Briggs
-A.J. Quinnell
-Milos Forman
-Mardik Martin Peter Savage
-Warren Skaaren
-Scott Z. Burns
-David Levien Mort Briskin
-James Foley
-Karen Janszen
-Mike Newell
-Ted Elliott Roland Emmerich
-David Giler David Fincher
-Alexandre Dumas
-John Fusco Michael Apted
-William Monahan
-Ben Affleck Matt Damon
-Dominic Sena Jon Hoeber
-Harold Medford
-Alain Le Henry
-Donna Powers Wayne Powers
-John Schlesinger
-Rob Hedden
-Joseph L. Mankiewicz
-David O'Malley
-Tony Gayton
-Richard Marquand
-Craig Pearce
-Glen Morgan
-Howard Deutch
-Warren Lewis
-John Ridley
-Gil Junger
-Peter Savage
-Jay Presson Allen
-Margaret Nagle
-Rick King
-Adam Rifkin
-David R. Ellis
-Richard Williams Peter S. Seaman
-Terry Gilliam
-Michael Robert Johnson Guy Ritchie
-Lee Tamahori
-Armitage Trail Brian De Palma Ben Hecht
-David Hare
-Giuseppe Tornatore
-Jeffrey Boam
-Peter S. Seaman John Thomas S.S. Wilson
-Matt Damon
-Brian De Palma John Thomas Ben Hecht
-Susan Orlean
-Richard Lester
-Jack B. Sowards
-Peter Berg
-Walter Mosley
-Michael Chabon
-Beau Thorne
-William Makepeace Thackeray
-Damian Shannon
-Karen Walton
-Patrick O'Neill
-Daniel Farrands
-Michael De Luca
-Lana Wachowski
-Sofia Coppola
-John Thomas S.S. Wilson
-Jon Ronson
-Steve Feke Fred Walton
-David Fincher Chuck Palahniuk
-Jonathan Lemkin Chuck Pfarrer
-Bob Matz
-David Peace
-Chuck Pfarrer
-Tom DiCillo
-Marianne Wibberley
-Catherine Hardwicke
-Neil Gaiman
-Ben Hecht
-Yvette Kaplan
-Peter Hyams
-Grégory Levasseur
-Amy Heckerling
-Justin Chadwick
-Wayne Powers
-Kenneth Lonergan
-S.S. Wilson
-Jim Field Smith
-Fax Bahr Jamie Kennedy
-Evan Hunter
-Frank Pierson
-Jon Hoeber
-Alex Kurtzman
-Peter Briggs
-David Scinto
-Roland Emmerich
-Chris Columbus Charles S. Haas
-John W. Campbell Jr.
-Sheldon Turner
-James Kearns
-Stephen Hauser
-David Franzoni
-Ron Howard Gregory Widen
-Andy Lewis
-Jamie Kennedy
-Bernard Murray Jr.
-Shekhar Kapur
-William Friedkin
-Steve Ditko
-Aleksandr Novototskiy-Vlasov
-Akosua Busia
-Mort Briskin
-Alex Mace
-Cyrus Voris
-Michael Apted
-Robert Siegel
-Fred Walton
-Gregory Widen
-Marc Webb
-Gloria Katz
-Robert A. Heinlein
-Scott Stewart
-Peter Farrelly
-Richard Schayer
-Doug Richardson
-Fred Cavayé
-Stephen Hopkins
-Kôji Suzuki Hideo Nakata
-Hideo Nakata
-Alex Proyas
-Nancy Dowd
-Todd Alcott
-Richard Matheson
-Albert Hackett Philip Van Doren Stern
-Sylvester Stallone
-William Goldman
-Jennifer Jason Leigh
-Guy Ritchie
-Tobias Wolff
-Shane Black
-William Wisher
-Philip Van Doren Stern
-George Armitage
-Chuck Palahniuk
-Charles S. Haas
-Stephen Susco
+Charles_Frazier
+Nick_Castle Debra_Hill John_Carpenter
+Michael_Colleary Mike_Werb
+Bruce_Joel_Rubin Jerry_Zucker
+Vince_Gilligan Vy_Vincent_Ngo Peter_Berg
+Russell_Mulcahy Peter_Bellwood Gregory_Widen
+Zdenek_Mahler Milos_Forman
+Charles_Brackett Billy_Wilder
+Dave_Gibbons Alan_Moore Zack_Snyder
+Marshall_Brickman
+Florian_Henckel_von_Donnersmarck Jérôme_Salle Julian_Fellowes
+Nikita_Mikhalkov Aleksandr_Novototskiy-Vlasov
+Kevin_Costner Michael_Blake
+Steven_E._de_Souza Bruce_Willis Michael_Lehmann
+Rich_Wilkes
+Tom_Butterworth
+Marc_Behm Peter_Stone
+Mike_Gray Andrew_Davis Michael_Butler
+Adam_Resnick
+Neil_LaBute
+John_Lasseter Joel_Cohen Andrew_Stanton
+Tatsuo_Yoshida Lilly_Wachowski Lana_Wachowski
+William_Nicholson David_Franzoni Shekhar_Kapur
+Tom_Wolfe Brian_De_Palma
+Matthew_Robbins Hal_Barwood
+Chip_Johannessen Bharat_Nalluri
+John_Hillcoat
+Franco_Solinas
+Eric_Bernt Gillian_Horvath Gregory_Widen
+David_Mickey_Evans
+Eric_Hodgins Norman_Panama
+Jérôme_Salle Julian_Fellowes
+John-Henry_Butterworth Joseph_Wilson
+A.E.W._Mason J._Searle_Dawley
+Gore_Verbinski Ted_Elliott
+David_Webb_Peoples Paul_W.S._Anderson
+Robert_Rodat Roland_Emmerich
+J.F._Lawton
+Patricia_Highsmith Raymond_Chandler Whitfield_Cook Ben_Hecht
+Jock Peter_Berg
+Garth_Ennis Kevin_Brodbin
+Nick_Swardson Fax_Bahr Jamie_Kennedy
+Raymond_Chandler Whitfield_Cook Billy_Wilder Ben_Hecht
+Michael_Piller
+Amanda_Silver Douglas_Preston Peter_Hyams
+Paul_Perez Philip_Dunne Michael_Mann James_Fenimore_Cooper
+Winston_Groom
+Paul_Thomas_Anderson
+Aaron_Seltzer
+Anthony_Cipriano
+George_Clayton_Johnson
+David_Benioff
+Masao_Itô Norm_McCabe Bob_Matz
+Howard_Breslin Don_McGuire
+Kenny_Ortega
+Harmony_Korine
+Cheryl_Edwards
+Daniel_Goldin Chuck_Pfarrer
+Richard_Epcar Giuseppe_Tornatore
+Garth_Jennings
+Neil_Jordan Anne_Rice
+Matthew_Sand
+Jeffrey_Price Richard_Williams Peter_S._Seaman John_Thomas S.S._Wilson
+Mark_Neveldine
+Scott_Frank
+Diane_Johnson Stephen_King
+Roger_Michell
+Kevin_Reynolds John_Watson
+Christopher_Grimm
+Jarrad_Paul
+David_Baldacci William_Goldman
+Michael_Barrie George_Gallo Jim_Mulholland Doug_Richardson
+Joseph_Wilson
+Richard_Yates Sam_Mendes Justin_Haythe
+Norm_McCabe Bob_Matz
+F._Scott_Fitzgerald David_Fincher
+Steve_Carr
+Robin_Moore William_Friedkin
+Norman_Panama
+Dan_Gilroy
+Kevin_Eastman Kevin_Munroe
+Alan_Schoolcraft Tom_McGrath
+Alan_Cumming Jennifer_Jason_Leigh
+Ron_Shelton John_Norville Al_Stump
+Burr_Steers
+Pat_O'Connor
+Bruce_Willis Michael_Lehmann
+Kevin_Brodbin
+James_Gray
+Sean_Ellis
+Graham_Yost Brian_De_Palma John_Thomas
+Steve_Oedekerk
+Alan_J._Pakula Andy_Lewis
+Mike_Myers Jay_Roach
+David_E._Kelley
+Christopher_Nolan Jonathan_Nolan
+Julian_Schnabel
+Richard_O'Brien
+Michael_Crichton Jim_Taylor Joe_Johnston Barry_Levinson Stephen_Hauser
+Toni_Morrison Jonathan_Demme Akosua_Busia
+Jon_Lucas
+Josann_McGibbon
+Joseph_Stefano
+Michael_Ritchie Phil_Alden_Robinson
+Whitfield_Cook Ben_Hecht
+Michael_Patrick_Jann Lona_Williams
+Simon_Blackwell Ian_Martin
+Michael_Pye
+Kent_Alterman
+John_Haase Barbara_Turner Richard_Lester
+Bobby_Moresco Paul_Haggis
+Steve_McVicker John_Requa
+Geoffrey_Fletcher Lee_Daniels
+Leigh_Brackett
+Douglas_Cook Mark_Rosner
+Lona_Williams
+Joe_Stillman Yvette_Kaplan
+Ron_Kurz Victor_Miller
+Tom_Perrotta Jim_Taylor
+Billy_Wilder Arthur_Conan_Doyle
+Arthur_Conan_Doyle Simon_Kinberg Michael_Robert_Johnson Guy_Ritchie
+Todd_Solondz
+Henry_Bean Bill_Duke
+Edward_Zwick
+Stephenie_Meyer Catherine_Hardwicke
+Tim_Story
+David_Elliot
+Roger_Hedden Michael_Steinberg
+Mark_Rosner
+Tom_DeSanto
+Roger_Kumble
+Michael_Lehmann
+Steven_Knight
+Jim_Cash Warren_Skaaren
+Mike_Werb Chuck_Russell Michael_Fallon
+Vy_Vincent_Ngo Peter_Berg
+Jon_Krakauer
+Sam_Mendes Justin_Haythe Alan_Ball
+Michael_Petroni Anne_Rice
+David_Twohy Danielle_Alexandra Andrew_Davis Jim_Wheat
+Hui-Ling_Wang Ang_Lee
+Irwin_Allen Akiva_Goldsman Stephen_Hopkins
+Kevin_Jarre James_Cameron Richard_Schayer Sylvester_Stallone
+Danielle_Alexandra
+Judith_Guest Nancy_Dowd
+Kevin_Munroe
+Anne_Rice
+Justin_Theroux
+Anne_Spielberg Gary_Ross
+Hunter_S._Thompson Terry_Gilliam
+Jim_Taylor Joe_Johnston
+Mary_Shelley Steph_Lady
+Carey_W._Hayes Dominic_Sena Jon_Hoeber
+Alan_Moore Zack_Snyder
+Albert_Hughes Allen_Hughes
+Tim_Pope
+Andrew_Davis Michael_Butler Steven_Pressfield
+Matthew_Robinson Ricky_Gervais
+Mary_Lambert Stephen_King
+Frances_Goodrich Albert_Hackett Philip_Van_Doren_Stern
+Jane_Austen Ang_Lee
+Jim_Kouf Ross_LaManna
+John_Cusack D.V._DeVincentis Scott_Rosenberg George_Armitage
+John_Romano
+Lee_Daniels
+William_M._Finkelstein
+Jonathan_Kesselman
+Peter_Stone
+Nathan_Juran
+Anna_Pavignano Antonio_Skármeta
+Victor_Miller James_Isaac Rob_Hedden Damian_Shannon
+P.J._Hogan
+John_Irving Lasse_Hallström
+Barbara_Turner Richard_Lester
+Larry_Beinhart Barry_Levinson
+Peter_Bellwood Gregory_Widen
+James_Cameron Claude_Zidi Dan_O'Bannon Gale_Anne_Hurd David_Giler Sylvester_Stallone William_Wisher
+Gladys_Lehman
+Josh_Klausner
+Randall_Jahnson
+Philip_Dunne Michael_Mann James_Fenimore_Cooper
+Ivan_Goff Cormac_Wibberley Marianne_Wibberley
+Joel_Cohen Andrew_Stanton
+Jay_Roach
+John_Pogue
+Jonathan_Lynn
+Gillian_Horvath Gregory_Widen
+Justin_Haythe
+Earl_W._Wallace William_Kelley
+Akiva_Goldsman Ron_Howard Stephen_Hopkins Alex_Proyas
+Wes_Anderson
+Michael_Walker
+Jim_Reardon Andrew_Stanton
+Claude_Zidi
+Debra_Hill John_Carpenter Daniel_Farrands
+Bill_Duke
+Mark_Andrus James_L._Brooks
+H.G._Wells
+Jim_Wheat
+Stan_Redding
+Michael_Blake
+Elan_Mastai
+George_Gallo Jim_Mulholland Doug_Richardson
+Rowan_Atkinson
+Eric_Bergren
+Cornell_Woolrich
+Aaron_Sorkin Rob_Reiner
+Keir_Pearson
+Alan_Ball
+Daniel_Wallace
+William_Rose
+Bob_Burden
+Lasse_Hallström
+Michael_Butler
+Felix_Chong William_Monahan
+István_Szabó
+Euzhan_Palcy
+Wesley_Strick
+John_Requa
+Michael_Mann Ronan_Bennett James_Fenimore_Cooper
+Hal_Barwood
+Loveleen_Tandan
+Rob_Reiner William_Goldman
+Tom_McGrath
+Ross_LaManna
+Bennett_Yellin Peter_Farrelly
+Mel_Gibson Randall_Wallace
+Channing_Gibson David_Levien Mort_Briskin
+Andrew_Stanton
+Luc_Besson Robert_Mark_Kamen Alain_Le_Henry
+Chuck_Russell Michael_Fallon
+Bob_Israel
+Richard_Donner Lilly_Wachowski Lana_Wachowski
+Bill_Kelly
+Travis_Beacham
+Stephen_King Daniel_Attias
+Danny_Leiner Hayden_Schlossberg
+Tarsem_Singh
+Ang_Lee
+Zak_Penn E._Elias_Merhige
+Gary_Ross
+Brad_Mirman
+Paul_W.S._Anderson Dan_O'Bannon John_Thomas
+Thomas_Lennon
+James_L._Brooks
+Jeffrey_Reddick Glen_Morgan David_R._Ellis
+William_Kelley
+Steve_Kloves Michael_Chabon
+Peter_Tolan Kenneth_Lonergan
+Simon_Kinberg Michael_Robert_Johnson Guy_Ritchie
+Ted_Lewis
+Stanislaw_Lem
+David_Carson
+Gus_Van_Sant Tom_Robbins Ben_Affleck Matt_Damon
+Joseph_Sargent Margaret_Nagle
+John_Carpenter Dan_O'Bannon Daniel_Farrands John_W._Campbell_Jr.
+Charles_Bennett
+Charles_Denton
+Bharat_Nalluri
+Paul_Verhoeven Dan_O'Bannon Robert_A._Heinlein
+John_G._Avildsen Robert_Mark_Kamen Sylvester_Stallone
+John_Moore Beau_Thorne
+Jim_Mulholland Doug_Richardson
+Howard_Franklin
+Ronan_Bennett
+Antonio_Skármeta
+Nicholas_Meyer Jack_B._Sowards
+Mollie_Kent
+Lynn_Barber
+Neal_Marshall_Stevens Rick_Bota
+Phil_Alden_Robinson
+Gina_Prince-Bythewood
+Joe_Dante Chris_Columbus Charles_S._Haas
+Allen_Hughes
+Jonathan_Demme Akosua_Busia
+Ian_Martin
+Harold_Livingston
+George_Clooney
+Alejandro_G._Iñárritu
+Laurice_Elehwany
+Gene_Colan
+Harry_Bates
+John_Landis
+David_Caffrey
+Robert_Towne Brian_De_Palma
+John_Watson
+Rick_Bota
+Émile_Gaudreault Ron_Howard
+Jerry_Zucker Arthur_Hailey
+Hayden_Schlossberg
+Jim_Carrey
+Cormac_Wibberley Marianne_Wibberley
+Charles_McKeown Charles_Alverson Terry_Gilliam
+Robert_Mark_Kamen
+Steven_Pressfield
+D.V._DeVincentis Scott_Rosenberg George_Armitage
+Scott_Rosenberg Dominic_Sena
+James_Fenimore_Cooper
+Zack_Snyder
+Jim_Uhls David_Fincher Chuck_Palahniuk
+Charles_Alverson Terry_Gilliam
+Don_Bluth
+Paul_Haggis Fred_Cavayé
+Howard_Hawks Armitage_Trail Brian_De_Palma Ben_Hecht
+Chris_Poche Jonathan_Aibel Cyrus_Voris
+Paddy_Chayefsky
+Douglas_Preston Peter_Hyams
+Efram_Potelle
+Christopher_Markus Ann_Peacock
+John_Hughes
+J._Searle_Dawley
+Joe_Johnston
+Vincent_Ward Dan_O'Bannon David_Giler David_Fincher
+Daniel_Attias
+Barry_Levinson Stephen_Hauser
+Steph_Lady
+John_Norville
+Craig_Brewer
+Julian_Fellowes
+E._Elias_Merhige
+Tim_Metcalfe Dominic_Sena
+Arnold_Perl
+Tom_Robbins
+Lilly_Wachowski Lana_Wachowski
+Daniel_Pyne
+Mary_Harron
+Luis_Mandoki
+Paul_D._Zimmerman
+Randall_Wallace Alexandre_Dumas
+Anne_Fletcher
+Vince_McKewin Howard_Deutch
+Arthur_Hailey
+Don_McGuire
+Michael_Fallon
+Jonathan_Aibel Cyrus_Voris
+Ann_Peacock
+Atom_Egoyan
+Dan_O'Bannon David_Giler John_Thomas David_Fincher
+James_Isaac
+David_O._Russell John_Ridley
+Michael_Steinberg
+Larry_Karaszewski Milos_Forman
+Jonathan_Nolan
+Gale_Anne_Hurd William_Wisher
+Andrew_Kevin_Walker David_Fincher
+Kirsten_Smith Gil_Junger
+Maurice_Sendak
+Peter_Jackson
+Michael_Herr
+Dan_Aykroyd
+Hal_Hartley
+Ricky_Gervais
+Al_Stump
+Mike_Mignola Peter_Briggs
+A.J._Quinnell
+Milos_Forman
+Mardik_Martin Peter_Savage
+Warren_Skaaren
+Scott_Z._Burns
+David_Levien Mort_Briskin
+James_Foley
+Karen_Janszen
+Mike_Newell
+Ted_Elliott Roland_Emmerich
+David_Giler David_Fincher
+Alexandre_Dumas
+John_Fusco Michael_Apted
+William_Monahan
+Ben_Affleck Matt_Damon
+Dominic_Sena Jon_Hoeber
+Harold_Medford
+Alain_Le_Henry
+Donna_Powers Wayne_Powers
+John_Schlesinger
+Rob_Hedden
+Joseph_L._Mankiewicz
+David_O'Malley
+Tony_Gayton
+Richard_Marquand
+Craig_Pearce
+Glen_Morgan
+Howard_Deutch
+Warren_Lewis
+John_Ridley
+Gil_Junger
+Peter_Savage
+Jay_Presson_Allen
+Margaret_Nagle
+Rick_King
+Adam_Rifkin
+David_R._Ellis
+Richard_Williams Peter_S._Seaman
+Terry_Gilliam
+Michael_Robert_Johnson Guy_Ritchie
+Lee_Tamahori
+Armitage_Trail Brian_De_Palma Ben_Hecht
+David_Hare
+Giuseppe_Tornatore
+Jeffrey_Boam
+Peter_S._Seaman John_Thomas S.S._Wilson
+Matt_Damon
+Brian_De_Palma John_Thomas Ben_Hecht
+Susan_Orlean
+Richard_Lester
+Jack_B._Sowards
+Peter_Berg
+Walter_Mosley
+Michael_Chabon
+Beau_Thorne
+William_Makepeace_Thackeray
+Damian_Shannon
+Karen_Walton
+Patrick_O'Neill
+Daniel_Farrands
+Michael_De_Luca
+Lana_Wachowski
+Sofia_Coppola
+John_Thomas S.S._Wilson
+Jon_Ronson
+Steve_Feke Fred_Walton
+David_Fincher Chuck_Palahniuk
+Jonathan_Lemkin Chuck_Pfarrer
+Bob_Matz
+David_Peace
+Chuck_Pfarrer
+Tom_DiCillo
+Marianne_Wibberley
+Catherine_Hardwicke
+Neil_Gaiman
+Ben_Hecht
+Yvette_Kaplan
+Peter_Hyams
+Grégory_Levasseur
+Amy_Heckerling
+Justin_Chadwick
+Wayne_Powers
+Kenneth_Lonergan
+S.S._Wilson
+Jim_Field_Smith
+Fax_Bahr Jamie_Kennedy
+Evan_Hunter
+Frank_Pierson
+Jon_Hoeber
+Alex_Kurtzman
+Peter_Briggs
+David_Scinto
+Roland_Emmerich
+Chris_Columbus Charles_S._Haas
+John_W._Campbell_Jr.
+Sheldon_Turner
+James_Kearns
+Stephen_Hauser
+David_Franzoni
+Ron_Howard Gregory_Widen
+Andy_Lewis
+Jamie_Kennedy
+Bernard_Murray_Jr.
+Shekhar_Kapur
+William_Friedkin
+Steve_Ditko
+Aleksandr_Novototskiy-Vlasov
+Akosua_Busia
+Mort_Briskin
+Alex_Mace
+Cyrus_Voris
+Michael_Apted
+Robert_Siegel
+Fred_Walton
+Gregory_Widen
+Marc_Webb
+Gloria_Katz
+Robert_A._Heinlein
+Scott_Stewart
+Peter_Farrelly
+Richard_Schayer
+Doug_Richardson
+Fred_Cavayé
+Stephen_Hopkins
+Kôji_Suzuki Hideo_Nakata
+Hideo_Nakata
+Alex_Proyas
+Nancy_Dowd
+Todd_Alcott
+Richard_Matheson
+Albert_Hackett Philip_Van_Doren_Stern
+Sylvester_Stallone
+William_Goldman
+Jennifer_Jason_Leigh
+Guy_Ritchie
+Tobias_Wolff
+Shane_Black
+William_Wisher
+Philip_Van_Doren_Stern
+George_Armitage
+Chuck_Palahniuk
+Charles_S._Haas
+Stephen_Susco
